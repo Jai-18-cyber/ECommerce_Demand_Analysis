@@ -1,0 +1,1441 @@
+month,product_id,product_name,category,demand,revenue,number_of_orders
+2023-10-01,P1000,Wireless Earbuds,Electronics,98,435990.54,31
+2023-10-01,P1001,Smartwatch,Electronics,204,648760.49,40
+2023-10-01,P1002,Bluetooth Speaker,Electronics,298,521969.97000000003,45
+2023-10-01,P1003,Power Bank,Electronics,73,132229.59,29
+2023-10-01,P1004,USB-C Cable,Electronics,201,726120.2,40
+2023-10-01,P1005,Laptop Stand,Electronics,428,1886315.21,43
+2023-10-01,P1006,Webcam,Electronics,529,2345435.24,44
+2023-10-01,P1007,Gaming Mouse,Electronics,415,1573222.42,45
+2023-10-01,P1008,Mechanical Keyboard,Electronics,165,534546.37,44
+2023-10-01,P1009,LED Monitor,Electronics,201,103277.77,39
+2023-10-01,P1010,Men's T-Shirt,Fashion,225,199262.26,44
+2023-10-01,P1011,Women's Kurti,Fashion,332,1466326.41,43
+2023-10-01,P1012,Denim Jeans,Fashion,431,1308606.02,47
+2023-10-01,P1013,Running Shoes,Fashion,601,87788.97,42
+2023-10-01,P1014,Formal Shirt,Fashion,388,236572.35,41
+2023-10-01,P1015,Winter Jacket,Fashion,179,591283.98,47
+2023-10-01,P1016,Leather Wallet,Fashion,311,39382.69,45
+2023-10-01,P1017,Sunglasses,Fashion,731,646750.38,45
+2023-10-01,P1018,Backpack,Fashion,279,768321.34,43
+2023-10-01,P1019,Sneakers,Fashion,268,920125.56,40
+2023-10-01,P1020,Non-stick Pan,Home & Kitchen,253,820868.01,45
+2023-10-01,P1021,Electric Kettle,Home & Kitchen,428,512019.08,48
+2023-10-01,P1022,Mixer Grinder,Home & Kitchen,167,594237.63,41
+2023-10-01,P1023,LED Bulb Pack,Home & Kitchen,230,286063.77999999997,46
+2023-10-01,P1024,Storage Containers,Home & Kitchen,565,942300.63,48
+2023-10-01,P1025,Bedsheet Set,Home & Kitchen,329,1218459.57,42
+2023-10-01,P1026,Curtains,Home & Kitchen,313,1009007.54,47
+2023-10-01,P1027,Air Freshener,Home & Kitchen,618,2613679.1,44
+2023-10-01,P1028,Vacuum Cleaner,Home & Kitchen,145,474546.8,43
+2023-10-01,P1029,Table Lamp,Home & Kitchen,256,723036.25,47
+2023-10-01,P1030,Face Wash,Beauty & Personal Care,391,217015.97,46
+2023-10-01,P1031,Shampoo,Beauty & Personal Care,350,660248.84,48
+2023-10-01,P1032,Body Lotion,Beauty & Personal Care,112,155546.69,33
+2023-10-01,P1033,Perfume,Beauty & Personal Care,230,297379.01,40
+2023-10-01,P1034,Hair Dryer,Beauty & Personal Care,269,1284826.55,40
+2023-10-01,P1035,Trimmer,Beauty & Personal Care,320,644261.27,48
+2023-10-01,P1036,Sunscreen,Beauty & Personal Care,341,1511858.72,45
+2023-10-01,P1037,Lip Balm,Beauty & Personal Care,296,940387.43,42
+2023-10-01,P1038,Face Mask Pack,Beauty & Personal Care,75,299940.38,35
+2023-10-01,P1039,Hair Oil,Beauty & Personal Care,261,651260.69,44
+2023-10-01,P1040,Basmati Rice 5kg,Grocery,296,848226.39,43
+2023-10-01,P1041,Cooking Oil 1L,Grocery,1112,2760615.47,45
+2023-10-01,P1042,Green Tea Box,Grocery,240,253260.26,44
+2023-10-01,P1043,Almonds 500g,Grocery,367,1323944.63,43
+2023-10-01,P1044,Instant Noodles Pack,Grocery,624,906236.41,42
+2023-10-01,P1045,Coffee Powder,Grocery,476,107397.21,46
+2023-10-01,P1046,Honey Jar,Grocery,700,2253003.27,48
+2023-10-01,P1047,Protein Bar Pack,Grocery,117,113568.55,36
+2023-10-01,P1048,Peanut Butter,Grocery,149,691953.11,39
+2023-10-01,P1049,Oats Pack,Grocery,230,1080384.75,39
+2023-10-01,P1050,Yoga Mat,Sports & Fitness,98,450641.67,30
+2023-10-01,P1051,Dumbbell Set,Sports & Fitness,300,570898.09,46
+2023-10-01,P1052,Resistance Bands,Sports & Fitness,179,31427.57,37
+2023-10-01,P1053,Skipping Rope,Sports & Fitness,588,2681100.11,48
+2023-10-01,P1054,Cricket Bat,Sports & Fitness,163,356866.91,43
+2023-10-01,P1055,Football,Sports & Fitness,249,1184460.31,40
+2023-10-01,P1056,Water Bottle,Sports & Fitness,448,2121740.33,42
+2023-10-01,P1057,Fitness Tracker Band,Sports & Fitness,148,620412.59,38
+2023-10-01,P1058,Gym Gloves,Sports & Fitness,104,159243.25,31
+2023-10-01,P1059,Badminton Racket,Sports & Fitness,319,631799.8,44
+2023-11-01,P1000,Wireless Earbuds,Electronics,102,452493.11,37
+2023-11-01,P1001,Smartwatch,Electronics,153,482838.77999999997,31
+2023-11-01,P1002,Bluetooth Speaker,Electronics,250,440675.94,41
+2023-11-01,P1003,Power Bank,Electronics,84,148995.44,31
+2023-11-01,P1004,USB-C Cable,Electronics,205,738345.06,39
+2023-11-01,P1005,Laptop Stand,Electronics,469,2068560.24,49
+2023-11-01,P1006,Webcam,Electronics,515,2261449.62,50
+2023-11-01,P1007,Gaming Mouse,Electronics,349,1364518.82,44
+2023-11-01,P1008,Mechanical Keyboard,Electronics,164,515762.18,40
+2023-11-01,P1009,LED Monitor,Electronics,208,105716.96,45
+2023-11-01,P1010,Men's T-Shirt,Fashion,209,183991.95,39
+2023-11-01,P1011,Women's Kurti,Fashion,223,977729.46,34
+2023-11-01,P1012,Denim Jeans,Fashion,376,1123617.95,44
+2023-11-01,P1013,Running Shoes,Fashion,661,96560.83,52
+2023-11-01,P1014,Formal Shirt,Fashion,359,216725.79,46
+2023-11-01,P1015,Winter Jacket,Fashion,217,709900.16,41
+2023-11-01,P1016,Leather Wallet,Fashion,274,34605.0,42
+2023-11-01,P1017,Sunglasses,Fashion,740,663497.0599999999,44
+2023-11-01,P1018,Backpack,Fashion,249,689669.62,41
+2023-11-01,P1019,Sneakers,Fashion,223,759977.33,45
+2023-11-01,P1020,Non-stick Pan,Home & Kitchen,248,804327.52,41
+2023-11-01,P1021,Electric Kettle,Home & Kitchen,371,438554.08,46
+2023-11-01,P1022,Mixer Grinder,Home & Kitchen,151,537084.62,40
+2023-11-01,P1023,LED Bulb Pack,Home & Kitchen,227,284562.93,42
+2023-11-01,P1024,Storage Containers,Home & Kitchen,543,911016.13,44
+2023-11-01,P1025,Bedsheet Set,Home & Kitchen,298,1113000.75,44
+2023-11-01,P1026,Curtains,Home & Kitchen,346,1129978.94,43
+2023-11-01,P1027,Air Freshener,Home & Kitchen,473,2000205.75,44
+2023-11-01,P1028,Vacuum Cleaner,Home & Kitchen,170,553178.31,41
+2023-11-01,P1029,Table Lamp,Home & Kitchen,236,676605.26,38
+2023-11-01,P1030,Face Wash,Beauty & Personal Care,342,191383.96,42
+2023-11-01,P1031,Shampoo,Beauty & Personal Care,323,608693.43,43
+2023-11-01,P1032,Body Lotion,Beauty & Personal Care,117,162855.41,36
+2023-11-01,P1033,Perfume,Beauty & Personal Care,220,280502.85,39
+2023-11-01,P1034,Hair Dryer,Beauty & Personal Care,246,1175651.86,38
+2023-11-01,P1035,Trimmer,Beauty & Personal Care,261,530052.34,45
+2023-11-01,P1036,Sunscreen,Beauty & Personal Care,329,1455935.58,45
+2023-11-01,P1037,Lip Balm,Beauty & Personal Care,282,887678.72,44
+2023-11-01,P1038,Face Mask Pack,Beauty & Personal Care,71,279623.35,30
+2023-11-01,P1039,Hair Oil,Beauty & Personal Care,319,817110.25,44
+2023-11-01,P1040,Basmati Rice 5kg,Grocery,297,859416.61,40
+2023-11-01,P1041,Cooking Oil 1L,Grocery,1138,2819340.13,46
+2023-11-01,P1042,Green Tea Box,Grocery,272,283170.45,40
+2023-11-01,P1043,Almonds 500g,Grocery,365,1331180.68,39
+2023-11-01,P1044,Instant Noodles Pack,Grocery,533,771936.86,42
+2023-11-01,P1045,Coffee Powder,Grocery,437,99700.45,46
+2023-11-01,P1046,Honey Jar,Grocery,645,2061607.17,41
+2023-11-01,P1047,Protein Bar Pack,Grocery,86,85081.73999999999,31
+2023-11-01,P1048,Peanut Butter,Grocery,141,654964.8300000001,38
+2023-11-01,P1049,Oats Pack,Grocery,209,978182.13,42
+2023-11-01,P1050,Yoga Mat,Sports & Fitness,110,503380.55,29
+2023-11-01,P1051,Dumbbell Set,Sports & Fitness,233,438898.9,45
+2023-11-01,P1052,Resistance Bands,Sports & Fitness,168,29552.01,41
+2023-11-01,P1053,Skipping Rope,Sports & Fitness,509,2347974.94,39
+2023-11-01,P1054,Cricket Bat,Sports & Fitness,154,338494.45,39
+2023-11-01,P1055,Football,Sports & Fitness,239,1138112.34,38
+2023-11-01,P1056,Water Bottle,Sports & Fitness,466,2196765.56,46
+2023-11-01,P1057,Fitness Tracker Band,Sports & Fitness,153,660934.19,38
+2023-11-01,P1058,Gym Gloves,Sports & Fitness,102,156432.99,32
+2023-11-01,P1059,Badminton Racket,Sports & Fitness,326,640356.68,44
+2023-12-01,P1000,Wireless Earbuds,Electronics,102,455593.82,36
+2023-12-01,P1001,Smartwatch,Electronics,176,561724.56,32
+2023-12-01,P1002,Bluetooth Speaker,Electronics,290,504023.37,50
+2023-12-01,P1003,Power Bank,Electronics,96,172489.89,33
+2023-12-01,P1004,USB-C Cable,Electronics,231,833263.71,39
+2023-12-01,P1005,Laptop Stand,Electronics,430,1905034.65,42
+2023-12-01,P1006,Webcam,Electronics,537,2333760.1,47
+2023-12-01,P1007,Gaming Mouse,Electronics,400,1569920.6,46
+2023-12-01,P1008,Mechanical Keyboard,Electronics,176,556436.2,42
+2023-12-01,P1009,LED Monitor,Electronics,226,115886.65,37
+2023-12-01,P1010,Men's T-Shirt,Fashion,264,232905.09,46
+2023-12-01,P1011,Women's Kurti,Fashion,248,1106440.15,40
+2023-12-01,P1012,Denim Jeans,Fashion,393,1202042.39,47
+2023-12-01,P1013,Running Shoes,Fashion,689,101907.84,48
+2023-12-01,P1014,Formal Shirt,Fashion,400,241165.72999999998,51
+2023-12-01,P1015,Winter Jacket,Fashion,237,786645.33,43
+2023-12-01,P1016,Leather Wallet,Fashion,275,34811.37,43
+2023-12-01,P1017,Sunglasses,Fashion,717,628536.01,43
+2023-12-01,P1018,Backpack,Fashion,358,986072.9299999999,45
+2023-12-01,P1019,Sneakers,Fashion,242,817397.22,39
+2023-12-01,P1020,Non-stick Pan,Home & Kitchen,296,952018.6499999999,44
+2023-12-01,P1021,Electric Kettle,Home & Kitchen,423,508935.66,46
+2023-12-01,P1022,Mixer Grinder,Home & Kitchen,196,694989.61,42
+2023-12-01,P1023,LED Bulb Pack,Home & Kitchen,261,329330.94,50
+2023-12-01,P1024,Storage Containers,Home & Kitchen,524,869988.14,46
+2023-12-01,P1025,Bedsheet Set,Home & Kitchen,326,1219010.03,44
+2023-12-01,P1026,Curtains,Home & Kitchen,367,1183157.92,46
+2023-12-01,P1027,Air Freshener,Home & Kitchen,582,2443954.85,43
+2023-12-01,P1028,Vacuum Cleaner,Home & Kitchen,208,679319.03,44
+2023-12-01,P1029,Table Lamp,Home & Kitchen,238,677998.26,47
+2023-12-01,P1030,Face Wash,Beauty & Personal Care,355,199852.86000000002,41
+2023-12-01,P1031,Shampoo,Beauty & Personal Care,360,673659.56,41
+2023-12-01,P1032,Body Lotion,Beauty & Personal Care,106,146296.52,36
+2023-12-01,P1033,Perfume,Beauty & Personal Care,202,257201.91,39
+2023-12-01,P1034,Hair Dryer,Beauty & Personal Care,280,1334333.9000000001,45
+2023-12-01,P1035,Trimmer,Beauty & Personal Care,314,634147.12,44
+2023-12-01,P1036,Sunscreen,Beauty & Personal Care,394,1744783.39,45
+2023-12-01,P1037,Lip Balm,Beauty & Personal Care,337,1054076.42,46
+2023-12-01,P1038,Face Mask Pack,Beauty & Personal Care,82,322498.4,28
+2023-12-01,P1039,Hair Oil,Beauty & Personal Care,341,872074.87,46
+2023-12-01,P1040,Basmati Rice 5kg,Grocery,358,1045310.33,45
+2023-12-01,P1041,Cooking Oil 1L,Grocery,1191,2966735.92,51
+2023-12-01,P1042,Green Tea Box,Grocery,306,324380.74,42
+2023-12-01,P1043,Almonds 500g,Grocery,367,1308161.09,46
+2023-12-01,P1044,Instant Noodles Pack,Grocery,669,974794.48,47
+2023-12-01,P1045,Coffee Powder,Grocery,414,93697.39,48
+2023-12-01,P1046,Honey Jar,Grocery,636,2046143.54,50
+2023-12-01,P1047,Protein Bar Pack,Grocery,126,120339.86,36
+2023-12-01,P1048,Peanut Butter,Grocery,123,570572.67,35
+2023-12-01,P1049,Oats Pack,Grocery,228,1066289.26,45
+2023-12-01,P1050,Yoga Mat,Sports & Fitness,100,449639.69,34
+2023-12-01,P1051,Dumbbell Set,Sports & Fitness,219,410412.8,42
+2023-12-01,P1052,Resistance Bands,Sports & Fitness,170,29815.88,38
+2023-12-01,P1053,Skipping Rope,Sports & Fitness,684,3159152.03,53
+2023-12-01,P1054,Cricket Bat,Sports & Fitness,182,395647.37,40
+2023-12-01,P1055,Football,Sports & Fitness,244,1174266.62,41
+2023-12-01,P1056,Water Bottle,Sports & Fitness,602,2840493.96,52
+2023-12-01,P1057,Fitness Tracker Band,Sports & Fitness,111,468628.44,37
+2023-12-01,P1058,Gym Gloves,Sports & Fitness,99,150863.43,34
+2023-12-01,P1059,Badminton Racket,Sports & Fitness,340,660963.76,44
+2024-01-01,P1000,Wireless Earbuds,Electronics,101,445623.84,34
+2024-01-01,P1001,Smartwatch,Electronics,193,605702.83,42
+2024-01-01,P1002,Bluetooth Speaker,Electronics,312,543009.14,45
+2024-01-01,P1003,Power Bank,Electronics,105,186159.92,36
+2024-01-01,P1004,USB-C Cable,Electronics,188,672880.9,46
+2024-01-01,P1005,Laptop Stand,Electronics,446,1986539.24,50
+2024-01-01,P1006,Webcam,Electronics,619,2744994.75,48
+2024-01-01,P1007,Gaming Mouse,Electronics,421,1604247.72,49
+2024-01-01,P1008,Mechanical Keyboard,Electronics,168,540139.59,39
+2024-01-01,P1009,LED Monitor,Electronics,201,102549.62,44
+2024-01-01,P1010,Men's T-Shirt,Fashion,250,220537.02,43
+2024-01-01,P1011,Women's Kurti,Fashion,208,925634.36,36
+2024-01-01,P1012,Denim Jeans,Fashion,348,1055724.54,46
+2024-01-01,P1013,Running Shoes,Fashion,560,82519.11,51
+2024-01-01,P1014,Formal Shirt,Fashion,387,231879.71,47
+2024-01-01,P1015,Winter Jacket,Fashion,183,603593.32,39
+2024-01-01,P1016,Leather Wallet,Fashion,244,31227.6,46
+2024-01-01,P1017,Sunglasses,Fashion,742,651233.92,47
+2024-01-01,P1018,Backpack,Fashion,265,725777.83,48
+2024-01-01,P1019,Sneakers,Fashion,209,719594.42,45
+2024-01-01,P1020,Non-stick Pan,Home & Kitchen,240,783719.25,43
+2024-01-01,P1021,Electric Kettle,Home & Kitchen,419,496195.55,50
+2024-01-01,P1022,Mixer Grinder,Home & Kitchen,156,556330.84,43
+2024-01-01,P1023,LED Bulb Pack,Home & Kitchen,165,206758.08,36
+2024-01-01,P1024,Storage Containers,Home & Kitchen,501,840523.13,47
+2024-01-01,P1025,Bedsheet Set,Home & Kitchen,318,1166532.05,44
+2024-01-01,P1026,Curtains,Home & Kitchen,336,1096586.52,42
+2024-01-01,P1027,Air Freshener,Home & Kitchen,532,2268423.39,46
+2024-01-01,P1028,Vacuum Cleaner,Home & Kitchen,178,580871.43,41
+2024-01-01,P1029,Table Lamp,Home & Kitchen,251,712753.65,47
+2024-01-01,P1030,Face Wash,Beauty & Personal Care,322,179739.65,41
+2024-01-01,P1031,Shampoo,Beauty & Personal Care,356,665447.4,47
+2024-01-01,P1032,Body Lotion,Beauty & Personal Care,113,155735.4,32
+2024-01-01,P1033,Perfume,Beauty & Personal Care,237,305069.41,42
+2024-01-01,P1034,Hair Dryer,Beauty & Personal Care,271,1318666.24,37
+2024-01-01,P1035,Trimmer,Beauty & Personal Care,337,667026.28,39
+2024-01-01,P1036,Sunscreen,Beauty & Personal Care,286,1270751.1,43
+2024-01-01,P1037,Lip Balm,Beauty & Personal Care,304,953967.0700000001,43
+2024-01-01,P1038,Face Mask Pack,Beauty & Personal Care,82,329397.19,29
+2024-01-01,P1039,Hair Oil,Beauty & Personal Care,261,655902.05,45
+2024-01-01,P1040,Basmati Rice 5kg,Grocery,305,876745.55,48
+2024-01-01,P1041,Cooking Oil 1L,Grocery,1087,2701552.47,47
+2024-01-01,P1042,Green Tea Box,Grocery,311,326331.51,44
+2024-01-01,P1043,Almonds 500g,Grocery,447,1616922.68,43
+2024-01-01,P1044,Instant Noodles Pack,Grocery,566,824593.48,48
+2024-01-01,P1045,Coffee Powder,Grocery,447,100664.81,46
+2024-01-01,P1046,Honey Jar,Grocery,615,1970016.98,46
+2024-01-01,P1047,Protein Bar Pack,Grocery,105,102017.85,38
+2024-01-01,P1048,Peanut Butter,Grocery,135,622601.03,35
+2024-01-01,P1049,Oats Pack,Grocery,235,1105781.7,40
+2024-01-01,P1050,Yoga Mat,Sports & Fitness,85,381228.09,33
+2024-01-01,P1051,Dumbbell Set,Sports & Fitness,265,502106.69,45
+2024-01-01,P1052,Resistance Bands,Sports & Fitness,161,28240.27,37
+2024-01-01,P1053,Skipping Rope,Sports & Fitness,564,2582792.44,47
+2024-01-01,P1054,Cricket Bat,Sports & Fitness,157,340555.43,40
+2024-01-01,P1055,Football,Sports & Fitness,220,1060117.88,41
+2024-01-01,P1056,Water Bottle,Sports & Fitness,533,2527979.63,47
+2024-01-01,P1057,Fitness Tracker Band,Sports & Fitness,141,592825.06,39
+2024-01-01,P1058,Gym Gloves,Sports & Fitness,80,122330.78,29
+2024-01-01,P1059,Badminton Racket,Sports & Fitness,292,573956.6799999999,42
+2024-02-01,P1000,Wireless Earbuds,Electronics,99,438843.91,34
+2024-02-01,P1001,Smartwatch,Electronics,151,475263.52,36
+2024-02-01,P1002,Bluetooth Speaker,Electronics,283,498403.52,44
+2024-02-01,P1003,Power Bank,Electronics,76,136295.77,30
+2024-02-01,P1004,USB-C Cable,Electronics,181,657696.37,42
+2024-02-01,P1005,Laptop Stand,Electronics,413,1831106.34,48
+2024-02-01,P1006,Webcam,Electronics,513,2240069.66,44
+2024-02-01,P1007,Gaming Mouse,Electronics,376,1455789.93,45
+2024-02-01,P1008,Mechanical Keyboard,Electronics,136,434182.27,40
+2024-02-01,P1009,LED Monitor,Electronics,207,106146.57,41
+2024-02-01,P1010,Men's T-Shirt,Fashion,221,196347.43,42
+2024-02-01,P1011,Women's Kurti,Fashion,240,1066366.36,39
+2024-02-01,P1012,Denim Jeans,Fashion,375,1136138.03,46
+2024-02-01,P1013,Running Shoes,Fashion,463,68302.56,49
+2024-02-01,P1014,Formal Shirt,Fashion,324,194083.24,40
+2024-02-01,P1015,Winter Jacket,Fashion,155,515574.59,37
+2024-02-01,P1016,Leather Wallet,Fashion,213,27250.89,42
+2024-02-01,P1017,Sunglasses,Fashion,640,564385.65,45
+2024-02-01,P1018,Backpack,Fashion,293,802618.42,44
+2024-02-01,P1019,Sneakers,Fashion,176,608651.11,35
+2024-02-01,P1020,Non-stick Pan,Home & Kitchen,215,702465.76,45
+2024-02-01,P1021,Electric Kettle,Home & Kitchen,379,452667.77999999997,38
+2024-02-01,P1022,Mixer Grinder,Home & Kitchen,138,491996.4,35
+2024-02-01,P1023,LED Bulb Pack,Home & Kitchen,183,228749.2,41
+2024-02-01,P1024,Storage Containers,Home & Kitchen,447,743736.62,45
+2024-02-01,P1025,Bedsheet Set,Home & Kitchen,307,1147654.21,39
+2024-02-01,P1026,Curtains,Home & Kitchen,248,800987.16,47
+2024-02-01,P1027,Air Freshener,Home & Kitchen,418,1751359.54,41
+2024-02-01,P1028,Vacuum Cleaner,Home & Kitchen,135,443854.65,37
+2024-02-01,P1029,Table Lamp,Home & Kitchen,252,721337.3,46
+2024-02-01,P1030,Face Wash,Beauty & Personal Care,295,165669.88,44
+2024-02-01,P1031,Shampoo,Beauty & Personal Care,348,663230.54,46
+2024-02-01,P1032,Body Lotion,Beauty & Personal Care,108,147055.87,34
+2024-02-01,P1033,Perfume,Beauty & Personal Care,194,248939.24,37
+2024-02-01,P1034,Hair Dryer,Beauty & Personal Care,235,1139132.2,42
+2024-02-01,P1035,Trimmer,Beauty & Personal Care,392,787270.8,47
+2024-02-01,P1036,Sunscreen,Beauty & Personal Care,316,1383830.42,46
+2024-02-01,P1037,Lip Balm,Beauty & Personal Care,265,829529.24,44
+2024-02-01,P1038,Face Mask Pack,Beauty & Personal Care,60,235934.29,26
+2024-02-01,P1039,Hair Oil,Beauty & Personal Care,225,564078.8,45
+2024-02-01,P1040,Basmati Rice 5kg,Grocery,312,908545.44,45
+2024-02-01,P1041,Cooking Oil 1L,Grocery,953,2375667.93,46
+2024-02-01,P1042,Green Tea Box,Grocery,243,254737.47,43
+2024-02-01,P1043,Almonds 500g,Grocery,277,994306.73,40
+2024-02-01,P1044,Instant Noodles Pack,Grocery,392,575332.04,42
+2024-02-01,P1045,Coffee Powder,Grocery,417,94555.54000000001,43
+2024-02-01,P1046,Honey Jar,Grocery,554,1781852.72,47
+2024-02-01,P1047,Protein Bar Pack,Grocery,99,96592.73,33
+2024-02-01,P1048,Peanut Butter,Grocery,130,600287.99,37
+2024-02-01,P1049,Oats Pack,Grocery,218,1022628.13,44
+2024-02-01,P1050,Yoga Mat,Sports & Fitness,58,264893.11,26
+2024-02-01,P1051,Dumbbell Set,Sports & Fitness,241,455911.83,42
+2024-02-01,P1052,Resistance Bands,Sports & Fitness,139,24483.48,39
+2024-02-01,P1053,Skipping Rope,Sports & Fitness,540,2489441.49,43
+2024-02-01,P1054,Cricket Bat,Sports & Fitness,149,321970.67,35
+2024-02-01,P1055,Football,Sports & Fitness,244,1155414.22,38
+2024-02-01,P1056,Water Bottle,Sports & Fitness,503,2386932.71,46
+2024-02-01,P1057,Fitness Tracker Band,Sports & Fitness,101,425719.29,30
+2024-02-01,P1058,Gym Gloves,Sports & Fitness,85,129415.81,33
+2024-02-01,P1059,Badminton Racket,Sports & Fitness,245,485626.89,44
+2024-03-01,P1000,Wireless Earbuds,Electronics,96,428633.75,35
+2024-03-01,P1001,Smartwatch,Electronics,225,711998.2,45
+2024-03-01,P1002,Bluetooth Speaker,Electronics,356,618050.8,47
+2024-03-01,P1003,Power Bank,Electronics,80,142984.56,33
+2024-03-01,P1004,USB-C Cable,Electronics,203,733045.49,44
+2024-03-01,P1005,Laptop Stand,Electronics,479,2124208.23,45
+2024-03-01,P1006,Webcam,Electronics,619,2734630.47,51
+2024-03-01,P1007,Gaming Mouse,Electronics,544,2102426.74,45
+2024-03-01,P1008,Mechanical Keyboard,Electronics,157,499610.13,49
+2024-03-01,P1009,LED Monitor,Electronics,252,128862.46,50
+2024-03-01,P1010,Men's T-Shirt,Fashion,245,216468.51,44
+2024-03-01,P1011,Women's Kurti,Fashion,226,998241.51,37
+2024-03-01,P1012,Denim Jeans,Fashion,436,1320506.35,48
+2024-03-01,P1013,Running Shoes,Fashion,631,91757.56,47
+2024-03-01,P1014,Formal Shirt,Fashion,367,221045.34,42
+2024-03-01,P1015,Winter Jacket,Fashion,201,654402.9,39
+2024-03-01,P1016,Leather Wallet,Fashion,257,32582.61,45
+2024-03-01,P1017,Sunglasses,Fashion,662,582577.53,46
+2024-03-01,P1018,Backpack,Fashion,279,766184.83,42
+2024-03-01,P1019,Sneakers,Fashion,222,765001.87,45
+2024-03-01,P1020,Non-stick Pan,Home & Kitchen,258,835456.97,48
+2024-03-01,P1021,Electric Kettle,Home & Kitchen,371,444862.8,42
+2024-03-01,P1022,Mixer Grinder,Home & Kitchen,155,549428.65,42
+2024-03-01,P1023,LED Bulb Pack,Home & Kitchen,208,260547.77,39
+2024-03-01,P1024,Storage Containers,Home & Kitchen,518,868440.6,44
+2024-03-01,P1025,Bedsheet Set,Home & Kitchen,341,1259674.95,49
+2024-03-01,P1026,Curtains,Home & Kitchen,373,1211958.49,48
+2024-03-01,P1027,Air Freshener,Home & Kitchen,500,2122081.85,46
+2024-03-01,P1028,Vacuum Cleaner,Home & Kitchen,174,572318.23,40
+2024-03-01,P1029,Table Lamp,Home & Kitchen,266,758739.93,47
+2024-03-01,P1030,Face Wash,Beauty & Personal Care,351,192838.59,48
+2024-03-01,P1031,Shampoo,Beauty & Personal Care,379,703808.94,48
+2024-03-01,P1032,Body Lotion,Beauty & Personal Care,128,177567.64,42
+2024-03-01,P1033,Perfume,Beauty & Personal Care,209,264867.42,35
+2024-03-01,P1034,Hair Dryer,Beauty & Personal Care,249,1195756.3699999999,39
+2024-03-01,P1035,Trimmer,Beauty & Personal Care,407,821115.89,47
+2024-03-01,P1036,Sunscreen,Beauty & Personal Care,311,1376421.2,50
+2024-03-01,P1037,Lip Balm,Beauty & Personal Care,327,1038713.18,46
+2024-03-01,P1038,Face Mask Pack,Beauty & Personal Care,71,280790.47,27
+2024-03-01,P1039,Hair Oil,Beauty & Personal Care,308,780002.01,50
+2024-03-01,P1040,Basmati Rice 5kg,Grocery,315,906941.1799999999,53
+2024-03-01,P1041,Cooking Oil 1L,Grocery,1060,2602663.63,46
+2024-03-01,P1042,Green Tea Box,Grocery,269,282075.0,41
+2024-03-01,P1043,Almonds 500g,Grocery,299,1070954.16,41
+2024-03-01,P1044,Instant Noodles Pack,Grocery,490,710729.32,52
+2024-03-01,P1045,Coffee Powder,Grocery,440,99162.25,48
+2024-03-01,P1046,Honey Jar,Grocery,593,1905317.03,50
+2024-03-01,P1047,Protein Bar Pack,Grocery,89,85778.87,30
+2024-03-01,P1048,Peanut Butter,Grocery,150,706594.49,42
+2024-03-01,P1049,Oats Pack,Grocery,223,1040818.68,48
+2024-03-01,P1050,Yoga Mat,Sports & Fitness,82,370129.85,35
+2024-03-01,P1051,Dumbbell Set,Sports & Fitness,350,656997.49,48
+2024-03-01,P1052,Resistance Bands,Sports & Fitness,156,27140.61,39
+2024-03-01,P1053,Skipping Rope,Sports & Fitness,728,3316286.96,43
+2024-03-01,P1054,Cricket Bat,Sports & Fitness,188,409378.37,45
+2024-03-01,P1055,Football,Sports & Fitness,198,941038.76,40
+2024-03-01,P1056,Water Bottle,Sports & Fitness,528,2483455.48,45
+2024-03-01,P1057,Fitness Tracker Band,Sports & Fitness,133,557013.82,39
+2024-03-01,P1058,Gym Gloves,Sports & Fitness,100,151919.34,35
+2024-03-01,P1059,Badminton Racket,Sports & Fitness,329,653563.5,50
+2024-04-01,P1000,Wireless Earbuds,Electronics,111,500301.53,37
+2024-04-01,P1001,Smartwatch,Electronics,187,592369.95,39
+2024-04-01,P1002,Bluetooth Speaker,Electronics,374,650860.82,44
+2024-04-01,P1003,Power Bank,Electronics,63,112371.54000000001,27
+2024-04-01,P1004,USB-C Cable,Electronics,190,687450.3300000001,46
+2024-04-01,P1005,Laptop Stand,Electronics,520,2303408.9,44
+2024-04-01,P1006,Webcam,Electronics,652,2837425.35,47
+2024-04-01,P1007,Gaming Mouse,Electronics,593,2310464.95,43
+2024-04-01,P1008,Mechanical Keyboard,Electronics,169,541816.24,40
+2024-04-01,P1009,LED Monitor,Electronics,301,153725.32,41
+2024-04-01,P1010,Men's T-Shirt,Fashion,227,201362.52,45
+2024-04-01,P1011,Women's Kurti,Fashion,254,1119212.11,40
+2024-04-01,P1012,Denim Jeans,Fashion,495,1504551.66,45
+2024-04-01,P1013,Running Shoes,Fashion,571,84215.77,47
+2024-04-01,P1014,Formal Shirt,Fashion,413,249793.0,48
+2024-04-01,P1015,Winter Jacket,Fashion,220,729250.79,43
+2024-04-01,P1016,Leather Wallet,Fashion,248,31749.51,46
+2024-04-01,P1017,Sunglasses,Fashion,702,618594.02,46
+2024-04-01,P1018,Backpack,Fashion,292,806869.68,43
+2024-04-01,P1019,Sneakers,Fashion,197,677627.17,44
+2024-04-01,P1020,Non-stick Pan,Home & Kitchen,259,846621.38,43
+2024-04-01,P1021,Electric Kettle,Home & Kitchen,420,503919.51,43
+2024-04-01,P1022,Mixer Grinder,Home & Kitchen,142,499300.0,39
+2024-04-01,P1023,LED Bulb Pack,Home & Kitchen,186,230381.18,41
+2024-04-01,P1024,Storage Containers,Home & Kitchen,468,783244.21,48
+2024-04-01,P1025,Bedsheet Set,Home & Kitchen,385,1422730.5,41
+2024-04-01,P1026,Curtains,Home & Kitchen,362,1167533.99,44
+2024-04-01,P1027,Air Freshener,Home & Kitchen,539,2283381.11,42
+2024-04-01,P1028,Vacuum Cleaner,Home & Kitchen,174,572873.69,38
+2024-04-01,P1029,Table Lamp,Home & Kitchen,259,735507.15,42
+2024-04-01,P1030,Face Wash,Beauty & Personal Care,378,214624.63,40
+2024-04-01,P1031,Shampoo,Beauty & Personal Care,398,742801.39,40
+2024-04-01,P1032,Body Lotion,Beauty & Personal Care,134,185590.43,41
+2024-04-01,P1033,Perfume,Beauty & Personal Care,179,230196.86000000002,39
+2024-04-01,P1034,Hair Dryer,Beauty & Personal Care,291,1412656.9,44
+2024-04-01,P1035,Trimmer,Beauty & Personal Care,439,895737.42,43
+2024-04-01,P1036,Sunscreen,Beauty & Personal Care,316,1412249.34,42
+2024-04-01,P1037,Lip Balm,Beauty & Personal Care,358,1137112.16,42
+2024-04-01,P1038,Face Mask Pack,Beauty & Personal Care,61,239482.31,29
+2024-04-01,P1039,Hair Oil,Beauty & Personal Care,269,671405.71,45
+2024-04-01,P1040,Basmati Rice 5kg,Grocery,347,996484.42,42
+2024-04-01,P1041,Cooking Oil 1L,Grocery,1102,2765779.03,39
+2024-04-01,P1042,Green Tea Box,Grocery,266,280400.63,43
+2024-04-01,P1043,Almonds 500g,Grocery,318,1143901.78,36
+2024-04-01,P1044,Instant Noodles Pack,Grocery,523,750497.14,45
+2024-04-01,P1045,Coffee Powder,Grocery,444,98733.24,40
+2024-04-01,P1046,Honey Jar,Grocery,647,2076304.3,46
+2024-04-01,P1047,Protein Bar Pack,Grocery,84,80921.9,31
+2024-04-01,P1048,Peanut Butter,Grocery,150,695184.53,40
+2024-04-01,P1049,Oats Pack,Grocery,212,1007468.33,40
+2024-04-01,P1050,Yoga Mat,Sports & Fitness,91,409033.18,30
+2024-04-01,P1051,Dumbbell Set,Sports & Fitness,371,700848.51,44
+2024-04-01,P1052,Resistance Bands,Sports & Fitness,116,20482.75,36
+2024-04-01,P1053,Skipping Rope,Sports & Fitness,855,3926517.08,50
+2024-04-01,P1054,Cricket Bat,Sports & Fitness,157,337853.42,41
+2024-04-01,P1055,Football,Sports & Fitness,232,1112266.17,40
+2024-04-01,P1056,Water Bottle,Sports & Fitness,532,2524454.42,44
+2024-04-01,P1057,Fitness Tracker Band,Sports & Fitness,121,509281.44,37
+2024-04-01,P1058,Gym Gloves,Sports & Fitness,112,171286.92,33
+2024-04-01,P1059,Badminton Racket,Sports & Fitness,315,620654.52,41
+2024-05-01,P1000,Wireless Earbuds,Electronics,100,443916.27999999997,34
+2024-05-01,P1001,Smartwatch,Electronics,186,585546.7,41
+2024-05-01,P1002,Bluetooth Speaker,Electronics,486,849698.5,45
+2024-05-01,P1003,Power Bank,Electronics,90,158558.4,36
+2024-05-01,P1004,USB-C Cable,Electronics,202,727993.4400000001,42
+2024-05-01,P1005,Laptop Stand,Electronics,524,2316394.65,48
+2024-05-01,P1006,Webcam,Electronics,652,2871857.67,45
+2024-05-01,P1007,Gaming Mouse,Electronics,645,2489612.46,49
+2024-05-01,P1008,Mechanical Keyboard,Electronics,174,550582.87,46
+2024-05-01,P1009,LED Monitor,Electronics,254,129680.78,46
+2024-05-01,P1010,Men's T-Shirt,Fashion,222,196798.9,44
+2024-05-01,P1011,Women's Kurti,Fashion,276,1224592.67,40
+2024-05-01,P1012,Denim Jeans,Fashion,565,1711958.3900000001,46
+2024-05-01,P1013,Running Shoes,Fashion,622,91289.83,45
+2024-05-01,P1014,Formal Shirt,Fashion,439,261278.45,41
+2024-05-01,P1015,Winter Jacket,Fashion,254,835679.75,50
+2024-05-01,P1016,Leather Wallet,Fashion,317,40278.01,44
+2024-05-01,P1017,Sunglasses,Fashion,713,635171.17,46
+2024-05-01,P1018,Backpack,Fashion,330,923694.25,44
+2024-05-01,P1019,Sneakers,Fashion,220,765905.27,44
+2024-05-01,P1020,Non-stick Pan,Home & Kitchen,267,870537.35,44
+2024-05-01,P1021,Electric Kettle,Home & Kitchen,447,535375.41,43
+2024-05-01,P1022,Mixer Grinder,Home & Kitchen,145,516880.54,38
+2024-05-01,P1023,LED Bulb Pack,Home & Kitchen,223,281001.37,41
+2024-05-01,P1024,Storage Containers,Home & Kitchen,499,832517.42,43
+2024-05-01,P1025,Bedsheet Set,Home & Kitchen,504,1876346.7,49
+2024-05-01,P1026,Curtains,Home & Kitchen,366,1199649.04,50
+2024-05-01,P1027,Air Freshener,Home & Kitchen,559,2318046.24,49
+2024-05-01,P1028,Vacuum Cleaner,Home & Kitchen,184,610376.4400000001,46
+2024-05-01,P1029,Table Lamp,Home & Kitchen,282,802930.86,45
+2024-05-01,P1030,Face Wash,Beauty & Personal Care,379,214211.0,46
+2024-05-01,P1031,Shampoo,Beauty & Personal Care,391,740143.73,44
+2024-05-01,P1032,Body Lotion,Beauty & Personal Care,131,181935.46,41
+2024-05-01,P1033,Perfume,Beauty & Personal Care,189,240973.96,38
+2024-05-01,P1034,Hair Dryer,Beauty & Personal Care,262,1258476.92,45
+2024-05-01,P1035,Trimmer,Beauty & Personal Care,469,949843.59,49
+2024-05-01,P1036,Sunscreen,Beauty & Personal Care,284,1249686.64,43
+2024-05-01,P1037,Lip Balm,Beauty & Personal Care,323,1008702.13,43
+2024-05-01,P1038,Face Mask Pack,Beauty & Personal Care,90,356881.78,35
+2024-05-01,P1039,Hair Oil,Beauty & Personal Care,307,779067.92,47
+2024-05-01,P1040,Basmati Rice 5kg,Grocery,355,1030919.16,46
+2024-05-01,P1041,Cooking Oil 1L,Grocery,1149,2832337.3,47
+2024-05-01,P1042,Green Tea Box,Grocery,304,320128.08,52
+2024-05-01,P1043,Almonds 500g,Grocery,389,1400285.98,50
+2024-05-01,P1044,Instant Noodles Pack,Grocery,502,718648.39,44
+2024-05-01,P1045,Coffee Powder,Grocery,390,87153.58,50
+2024-05-01,P1046,Honey Jar,Grocery,625,1995626.41,49
+2024-05-01,P1047,Protein Bar Pack,Grocery,117,112741.96,38
+2024-05-01,P1048,Peanut Butter,Grocery,132,609149.19,37
+2024-05-01,P1049,Oats Pack,Grocery,248,1158650.88,45
+2024-05-01,P1050,Yoga Mat,Sports & Fitness,105,470177.06,31
+2024-05-01,P1051,Dumbbell Set,Sports & Fitness,336,631042.87,44
+2024-05-01,P1052,Resistance Bands,Sports & Fitness,129,22789.86,36
+2024-05-01,P1053,Skipping Rope,Sports & Fitness,871,3980204.04,48
+2024-05-01,P1054,Cricket Bat,Sports & Fitness,174,376955.33,47
+2024-05-01,P1055,Football,Sports & Fitness,250,1189812.03,41
+2024-05-01,P1056,Water Bottle,Sports & Fitness,632,3043353.85,46
+2024-05-01,P1057,Fitness Tracker Band,Sports & Fitness,132,553386.86,38
+2024-05-01,P1058,Gym Gloves,Sports & Fitness,105,160241.91,38
+2024-05-01,P1059,Badminton Racket,Sports & Fitness,310,608556.21,46
+2024-06-01,P1000,Wireless Earbuds,Electronics,77,344495.3,30
+2024-06-01,P1001,Smartwatch,Electronics,157,499420.81,36
+2024-06-01,P1002,Bluetooth Speaker,Electronics,424,737711.31,47
+2024-06-01,P1003,Power Bank,Electronics,70,124842.76,33
+2024-06-01,P1004,USB-C Cable,Electronics,209,752298.38,45
+2024-06-01,P1005,Laptop Stand,Electronics,513,2260436.52,46
+2024-06-01,P1006,Webcam,Electronics,738,3230506.56,41
+2024-06-01,P1007,Gaming Mouse,Electronics,625,2386387.36,43
+2024-06-01,P1008,Mechanical Keyboard,Electronics,179,579672.78,41
+2024-06-01,P1009,LED Monitor,Electronics,302,154056.52,45
+2024-06-01,P1010,Men's T-Shirt,Fashion,259,227363.3,48
+2024-06-01,P1011,Women's Kurti,Fashion,235,1042886.58,36
+2024-06-01,P1012,Denim Jeans,Fashion,566,1715012.3,43
+2024-06-01,P1013,Running Shoes,Fashion,557,82224.42,44
+2024-06-01,P1014,Formal Shirt,Fashion,433,261798.66,47
+2024-06-01,P1015,Winter Jacket,Fashion,226,744972.7,45
+2024-06-01,P1016,Leather Wallet,Fashion,245,31076.62,42
+2024-06-01,P1017,Sunglasses,Fashion,712,638958.93,48
+2024-06-01,P1018,Backpack,Fashion,321,881005.39,47
+2024-06-01,P1019,Sneakers,Fashion,183,636258.0,41
+2024-06-01,P1020,Non-stick Pan,Home & Kitchen,285,920361.87,42
+2024-06-01,P1021,Electric Kettle,Home & Kitchen,454,545794.54,46
+2024-06-01,P1022,Mixer Grinder,Home & Kitchen,136,480901.37,45
+2024-06-01,P1023,LED Bulb Pack,Home & Kitchen,220,273822.45,36
+2024-06-01,P1024,Storage Containers,Home & Kitchen,502,829661.18,52
+2024-06-01,P1025,Bedsheet Set,Home & Kitchen,459,1686230.66,43
+2024-06-01,P1026,Curtains,Home & Kitchen,363,1182226.67,46
+2024-06-01,P1027,Air Freshener,Home & Kitchen,542,2308086.08,42
+2024-06-01,P1028,Vacuum Cleaner,Home & Kitchen,181,595837.71,36
+2024-06-01,P1029,Table Lamp,Home & Kitchen,259,732318.87,38
+2024-06-01,P1030,Face Wash,Beauty & Personal Care,354,201140.58,41
+2024-06-01,P1031,Shampoo,Beauty & Personal Care,396,746618.67,46
+2024-06-01,P1032,Body Lotion,Beauty & Personal Care,122,169861.56,39
+2024-06-01,P1033,Perfume,Beauty & Personal Care,219,278119.6,38
+2024-06-01,P1034,Hair Dryer,Beauty & Personal Care,276,1334905.29,46
+2024-06-01,P1035,Trimmer,Beauty & Personal Care,438,885255.8,45
+2024-06-01,P1036,Sunscreen,Beauty & Personal Care,317,1389185.64,47
+2024-06-01,P1037,Lip Balm,Beauty & Personal Care,317,994584.57,41
+2024-06-01,P1038,Face Mask Pack,Beauty & Personal Care,81,316505.94,31
+2024-06-01,P1039,Hair Oil,Beauty & Personal Care,338,853805.2,41
+2024-06-01,P1040,Basmati Rice 5kg,Grocery,378,1080636.66,47
+2024-06-01,P1041,Cooking Oil 1L,Grocery,1109,2755629.11,42
+2024-06-01,P1042,Green Tea Box,Grocery,280,295181.04,44
+2024-06-01,P1043,Almonds 500g,Grocery,373,1342384.3900000001,33
+2024-06-01,P1044,Instant Noodles Pack,Grocery,484,707682.86,42
+2024-06-01,P1045,Coffee Powder,Grocery,481,108885.69,46
+2024-06-01,P1046,Honey Jar,Grocery,544,1765727.21,47
+2024-06-01,P1047,Protein Bar Pack,Grocery,130,124683.2,36
+2024-06-01,P1048,Peanut Butter,Grocery,141,647247.85,43
+2024-06-01,P1049,Oats Pack,Grocery,224,1054033.23,49
+2024-06-01,P1050,Yoga Mat,Sports & Fitness,111,504622.77,32
+2024-06-01,P1051,Dumbbell Set,Sports & Fitness,354,665811.25,42
+2024-06-01,P1052,Resistance Bands,Sports & Fitness,157,27765.75,40
+2024-06-01,P1053,Skipping Rope,Sports & Fitness,827,3795476.2,44
+2024-06-01,P1054,Cricket Bat,Sports & Fitness,185,403298.05,42
+2024-06-01,P1055,Football,Sports & Fitness,256,1211813.2,45
+2024-06-01,P1056,Water Bottle,Sports & Fitness,622,2948334.23,44
+2024-06-01,P1057,Fitness Tracker Band,Sports & Fitness,158,672909.62,45
+2024-06-01,P1058,Gym Gloves,Sports & Fitness,109,165502.64,35
+2024-06-01,P1059,Badminton Racket,Sports & Fitness,246,486065.92,44
+2024-07-01,P1000,Wireless Earbuds,Electronics,110,493920.03,37
+2024-07-01,P1001,Smartwatch,Electronics,165,517111.43,35
+2024-07-01,P1002,Bluetooth Speaker,Electronics,431,752340.92,41
+2024-07-01,P1003,Power Bank,Electronics,77,136409.9,31
+2024-07-01,P1004,USB-C Cable,Electronics,224,811232.05,50
+2024-07-01,P1005,Laptop Stand,Electronics,531,2350080.0,50
+2024-07-01,P1006,Webcam,Electronics,607,2637600.84,43
+2024-07-01,P1007,Gaming Mouse,Electronics,547,2124523.71,45
+2024-07-01,P1008,Mechanical Keyboard,Electronics,168,543895.07,41
+2024-07-01,P1009,LED Monitor,Electronics,278,141485.55,44
+2024-07-01,P1010,Men's T-Shirt,Fashion,239,211824.09,46
+2024-07-01,P1011,Women's Kurti,Fashion,258,1151568.41,43
+2024-07-01,P1012,Denim Jeans,Fashion,512,1558847.68,46
+2024-07-01,P1013,Running Shoes,Fashion,551,81333.68,45
+2024-07-01,P1014,Formal Shirt,Fashion,444,268876.85,45
+2024-07-01,P1015,Winter Jacket,Fashion,223,737560.59,47
+2024-07-01,P1016,Leather Wallet,Fashion,230,29488.77,44
+2024-07-01,P1017,Sunglasses,Fashion,693,617047.28,51
+2024-07-01,P1018,Backpack,Fashion,350,972525.63,46
+2024-07-01,P1019,Sneakers,Fashion,185,632761.66,45
+2024-07-01,P1020,Non-stick Pan,Home & Kitchen,250,814944.78,48
+2024-07-01,P1021,Electric Kettle,Home & Kitchen,468,549120.37,44
+2024-07-01,P1022,Mixer Grinder,Home & Kitchen,161,570789.39,42
+2024-07-01,P1023,LED Bulb Pack,Home & Kitchen,196,243980.64,45
+2024-07-01,P1024,Storage Containers,Home & Kitchen,476,797580.25,51
+2024-07-01,P1025,Bedsheet Set,Home & Kitchen,370,1380087.58,47
+2024-07-01,P1026,Curtains,Home & Kitchen,439,1423175.8,45
+2024-07-01,P1027,Air Freshener,Home & Kitchen,499,2100824.3,48
+2024-07-01,P1028,Vacuum Cleaner,Home & Kitchen,185,604233.97,48
+2024-07-01,P1029,Table Lamp,Home & Kitchen,281,803931.38,45
+2024-07-01,P1030,Face Wash,Beauty & Personal Care,299,167129.06,46
+2024-07-01,P1031,Shampoo,Beauty & Personal Care,433,820104.3,42
+2024-07-01,P1032,Body Lotion,Beauty & Personal Care,118,163570.8,34
+2024-07-01,P1033,Perfume,Beauty & Personal Care,292,369715.03,48
+2024-07-01,P1034,Hair Dryer,Beauty & Personal Care,259,1253680.58,40
+2024-07-01,P1035,Trimmer,Beauty & Personal Care,456,912942.78,48
+2024-07-01,P1036,Sunscreen,Beauty & Personal Care,328,1461460.21,48
+2024-07-01,P1037,Lip Balm,Beauty & Personal Care,322,1014798.92,45
+2024-07-01,P1038,Face Mask Pack,Beauty & Personal Care,63,246435.62,27
+2024-07-01,P1039,Hair Oil,Beauty & Personal Care,300,761713.64,48
+2024-07-01,P1040,Basmati Rice 5kg,Grocery,391,1139958.91,46
+2024-07-01,P1041,Cooking Oil 1L,Grocery,1154,2873738.42,46
+2024-07-01,P1042,Green Tea Box,Grocery,313,327940.45,43
+2024-07-01,P1043,Almonds 500g,Grocery,373,1333275.76,44
+2024-07-01,P1044,Instant Noodles Pack,Grocery,465,680056.21,46
+2024-07-01,P1045,Coffee Powder,Grocery,478,108800.0,43
+2024-07-01,P1046,Honey Jar,Grocery,567,1822785.36,47
+2024-07-01,P1047,Protein Bar Pack,Grocery,94,91289.72,34
+2024-07-01,P1048,Peanut Butter,Grocery,132,613138.84,40
+2024-07-01,P1049,Oats Pack,Grocery,257,1200967.61,46
+2024-07-01,P1050,Yoga Mat,Sports & Fitness,97,433775.76,30
+2024-07-01,P1051,Dumbbell Set,Sports & Fitness,387,722703.3,48
+2024-07-01,P1052,Resistance Bands,Sports & Fitness,156,27349.89,44
+2024-07-01,P1053,Skipping Rope,Sports & Fitness,841,3833660.0,45
+2024-07-01,P1054,Cricket Bat,Sports & Fitness,162,354472.67,42
+2024-07-01,P1055,Football,Sports & Fitness,212,1015385.98,42
+2024-07-01,P1056,Water Bottle,Sports & Fitness,590,2804867.53,46
+2024-07-01,P1057,Fitness Tracker Band,Sports & Fitness,113,475290.28,35
+2024-07-01,P1058,Gym Gloves,Sports & Fitness,126,190463.11,36
+2024-07-01,P1059,Badminton Racket,Sports & Fitness,300,595325.7999999999,48
+2024-08-01,P1000,Wireless Earbuds,Electronics,111,499594.24,34
+2024-08-01,P1001,Smartwatch,Electronics,180,565183.85,40
+2024-08-01,P1002,Bluetooth Speaker,Electronics,470,808082.5,48
+2024-08-01,P1003,Power Bank,Electronics,93,166184.85,34
+2024-08-01,P1004,USB-C Cable,Electronics,244,887434.63,46
+2024-08-01,P1005,Laptop Stand,Electronics,559,2467961.96,46
+2024-08-01,P1006,Webcam,Electronics,661,2931550.7,45
+2024-08-01,P1007,Gaming Mouse,Electronics,603,2312570.66,53
+2024-08-01,P1008,Mechanical Keyboard,Electronics,186,594984.01,39
+2024-08-01,P1009,LED Monitor,Electronics,284,145125.02,48
+2024-08-01,P1010,Men's T-Shirt,Fashion,291,256041.0,53
+2024-08-01,P1011,Women's Kurti,Fashion,306,1356189.57,36
+2024-08-01,P1012,Denim Jeans,Fashion,585,1763495.79,48
+2024-08-01,P1013,Running Shoes,Fashion,599,88500.81999999999,48
+2024-08-01,P1014,Formal Shirt,Fashion,504,298556.42,49
+2024-08-01,P1015,Winter Jacket,Fashion,267,890933.3,46
+2024-08-01,P1016,Leather Wallet,Fashion,251,31904.91,47
+2024-08-01,P1017,Sunglasses,Fashion,770,685331.28,48
+2024-08-01,P1018,Backpack,Fashion,373,1023166.58,46
+2024-08-01,P1019,Sneakers,Fashion,237,820505.09,46
+2024-08-01,P1020,Non-stick Pan,Home & Kitchen,283,919370.43,43
+2024-08-01,P1021,Electric Kettle,Home & Kitchen,470,567383.28,45
+2024-08-01,P1022,Mixer Grinder,Home & Kitchen,147,523641.38,38
+2024-08-01,P1023,LED Bulb Pack,Home & Kitchen,200,251165.25,44
+2024-08-01,P1024,Storage Containers,Home & Kitchen,546,915139.11,49
+2024-08-01,P1025,Bedsheet Set,Home & Kitchen,477,1766783.59,46
+2024-08-01,P1026,Curtains,Home & Kitchen,424,1378551.48,49
+2024-08-01,P1027,Air Freshener,Home & Kitchen,591,2496356.0100000002,45
+2024-08-01,P1028,Vacuum Cleaner,Home & Kitchen,179,583739.48,44
+2024-08-01,P1029,Table Lamp,Home & Kitchen,333,957409.62,47
+2024-08-01,P1030,Face Wash,Beauty & Personal Care,349,194909.64,42
+2024-08-01,P1031,Shampoo,Beauty & Personal Care,502,942656.45,43
+2024-08-01,P1032,Body Lotion,Beauty & Personal Care,135,187133.49,42
+2024-08-01,P1033,Perfume,Beauty & Personal Care,265,342030.96,44
+2024-08-01,P1034,Hair Dryer,Beauty & Personal Care,290,1399091.16,37
+2024-08-01,P1035,Trimmer,Beauty & Personal Care,460,915245.41,40
+2024-08-01,P1036,Sunscreen,Beauty & Personal Care,385,1727609.8,46
+2024-08-01,P1037,Lip Balm,Beauty & Personal Care,402,1282145.39,45
+2024-08-01,P1038,Face Mask Pack,Beauty & Personal Care,80,312084.13,33
+2024-08-01,P1039,Hair Oil,Beauty & Personal Care,310,778846.02,44
+2024-08-01,P1040,Basmati Rice 5kg,Grocery,439,1265543.04,46
+2024-08-01,P1041,Cooking Oil 1L,Grocery,1293,3237487.6,49
+2024-08-01,P1042,Green Tea Box,Grocery,365,382431.72,44
+2024-08-01,P1043,Almonds 500g,Grocery,358,1297323.45,44
+2024-08-01,P1044,Instant Noodles Pack,Grocery,511,752400.76,43
+2024-08-01,P1045,Coffee Powder,Grocery,480,107724.75,47
+2024-08-01,P1046,Honey Jar,Grocery,543,1743499.15,45
+2024-08-01,P1047,Protein Bar Pack,Grocery,139,136092.75,37
+2024-08-01,P1048,Peanut Butter,Grocery,174,806573.53,38
+2024-08-01,P1049,Oats Pack,Grocery,284,1342609.48,48
+2024-08-01,P1050,Yoga Mat,Sports & Fitness,90,403446.07,32
+2024-08-01,P1051,Dumbbell Set,Sports & Fitness,371,692710.94,48
+2024-08-01,P1052,Resistance Bands,Sports & Fitness,199,34916.64,38
+2024-08-01,P1053,Skipping Rope,Sports & Fitness,808,3677263.75,43
+2024-08-01,P1054,Cricket Bat,Sports & Fitness,200,437801.88,44
+2024-08-01,P1055,Football,Sports & Fitness,282,1364122.33,44
+2024-08-01,P1056,Water Bottle,Sports & Fitness,697,3310283.94,49
+2024-08-01,P1057,Fitness Tracker Band,Sports & Fitness,187,794606.05,44
+2024-08-01,P1058,Gym Gloves,Sports & Fitness,122,189135.62,36
+2024-08-01,P1059,Badminton Racket,Sports & Fitness,285,552581.88,47
+2024-09-01,P1000,Wireless Earbuds,Electronics,79,355166.98,31
+2024-09-01,P1001,Smartwatch,Electronics,139,440582.46,34
+2024-09-01,P1002,Bluetooth Speaker,Electronics,291,505679.26,49
+2024-09-01,P1003,Power Bank,Electronics,92,165647.53,31
+2024-09-01,P1004,USB-C Cable,Electronics,240,870260.54,47
+2024-09-01,P1005,Laptop Stand,Electronics,500,2215120.21,41
+2024-09-01,P1006,Webcam,Electronics,636,2796158.48,47
+2024-09-01,P1007,Gaming Mouse,Electronics,417,1633085.13,42
+2024-09-01,P1008,Mechanical Keyboard,Electronics,168,541970.67,36
+2024-09-01,P1009,LED Monitor,Electronics,205,105852.15,44
+2024-09-01,P1010,Men's T-Shirt,Fashion,292,254819.77,42
+2024-09-01,P1011,Women's Kurti,Fashion,234,1039407.25,39
+2024-09-01,P1012,Denim Jeans,Fashion,439,1334798.77,46
+2024-09-01,P1013,Running Shoes,Fashion,464,67613.78,47
+2024-09-01,P1014,Formal Shirt,Fashion,379,229255.38,42
+2024-09-01,P1015,Winter Jacket,Fashion,248,823783.22,48
+2024-09-01,P1016,Leather Wallet,Fashion,191,24246.75,43
+2024-09-01,P1017,Sunglasses,Fashion,703,628471.19,48
+2024-09-01,P1018,Backpack,Fashion,258,712880.71,42
+2024-09-01,P1019,Sneakers,Fashion,209,726704.52,44
+2024-09-01,P1020,Non-stick Pan,Home & Kitchen,236,757481.24,44
+2024-09-01,P1021,Electric Kettle,Home & Kitchen,422,499798.47,42
+2024-09-01,P1022,Mixer Grinder,Home & Kitchen,116,415874.37,37
+2024-09-01,P1023,LED Bulb Pack,Home & Kitchen,174,219774.72,40
+2024-09-01,P1024,Storage Containers,Home & Kitchen,469,785305.27,46
+2024-09-01,P1025,Bedsheet Set,Home & Kitchen,330,1209958.51,41
+2024-09-01,P1026,Curtains,Home & Kitchen,377,1221228.07,49
+2024-09-01,P1027,Air Freshener,Home & Kitchen,450,1893697.3,40
+2024-09-01,P1028,Vacuum Cleaner,Home & Kitchen,175,572129.4,45
+2024-09-01,P1029,Table Lamp,Home & Kitchen,270,762661.81,41
+2024-09-01,P1030,Face Wash,Beauty & Personal Care,290,162663.06,44
+2024-09-01,P1031,Shampoo,Beauty & Personal Care,422,788462.33,43
+2024-09-01,P1032,Body Lotion,Beauty & Personal Care,137,189616.74,37
+2024-09-01,P1033,Perfume,Beauty & Personal Care,205,263005.69,39
+2024-09-01,P1034,Hair Dryer,Beauty & Personal Care,255,1215823.7,42
+2024-09-01,P1035,Trimmer,Beauty & Personal Care,299,596527.32,50
+2024-09-01,P1036,Sunscreen,Beauty & Personal Care,265,1169727.51,42
+2024-09-01,P1037,Lip Balm,Beauty & Personal Care,316,991457.29,37
+2024-09-01,P1038,Face Mask Pack,Beauty & Personal Care,51,200171.11,22
+2024-09-01,P1039,Hair Oil,Beauty & Personal Care,256,646085.98,42
+2024-09-01,P1040,Basmati Rice 5kg,Grocery,357,1037341.82,46
+2024-09-01,P1041,Cooking Oil 1L,Grocery,907,2233316.64,47
+2024-09-01,P1042,Green Tea Box,Grocery,290,305997.64,46
+2024-09-01,P1043,Almonds 500g,Grocery,393,1423104.8,45
+2024-09-01,P1044,Instant Noodles Pack,Grocery,453,657894.53,45
+2024-09-01,P1045,Coffee Powder,Grocery,391,86698.01,42
+2024-09-01,P1046,Honey Jar,Grocery,474,1523853.59,46
+2024-09-01,P1047,Protein Bar Pack,Grocery,86,83064.81,34
+2024-09-01,P1048,Peanut Butter,Grocery,150,702860.24,38
+2024-09-01,P1049,Oats Pack,Grocery,224,1054869.74,43
+2024-09-01,P1050,Yoga Mat,Sports & Fitness,79,357830.66000000003,29
+2024-09-01,P1051,Dumbbell Set,Sports & Fitness,245,463311.23,48
+2024-09-01,P1052,Resistance Bands,Sports & Fitness,108,18917.98,36
+2024-09-01,P1053,Skipping Rope,Sports & Fitness,536,2439638.75,48
+2024-09-01,P1054,Cricket Bat,Sports & Fitness,157,339864.03,42
+2024-09-01,P1055,Football,Sports & Fitness,185,895929.98,35
+2024-09-01,P1056,Water Bottle,Sports & Fitness,522,2487365.73,48
+2024-09-01,P1057,Fitness Tracker Band,Sports & Fitness,128,540543.93,39
+2024-09-01,P1058,Gym Gloves,Sports & Fitness,107,162437.66999999998,37
+2024-09-01,P1059,Badminton Racket,Sports & Fitness,231,453525.91,40
+2024-10-01,P1000,Wireless Earbuds,Electronics,126,555140.13,36
+2024-10-01,P1001,Smartwatch,Electronics,200,629632.86,40
+2024-10-01,P1002,Bluetooth Speaker,Electronics,317,550816.88,45
+2024-10-01,P1003,Power Bank,Electronics,90,162309.19,32
+2024-10-01,P1004,USB-C Cable,Electronics,231,844459.0,45
+2024-10-01,P1005,Laptop Stand,Electronics,549,2423200.09,49
+2024-10-01,P1006,Webcam,Electronics,653,2839474.63,47
+2024-10-01,P1007,Gaming Mouse,Electronics,511,1989661.07,43
+2024-10-01,P1008,Mechanical Keyboard,Electronics,172,549325.18,41
+2024-10-01,P1009,LED Monitor,Electronics,191,98311.08,41
+2024-10-01,P1010,Men's T-Shirt,Fashion,307,273542.57,48
+2024-10-01,P1011,Women's Kurti,Fashion,343,1531825.57,43
+2024-10-01,P1012,Denim Jeans,Fashion,398,1220848.74,49
+2024-10-01,P1013,Running Shoes,Fashion,571,83286.2,52
+2024-10-01,P1014,Formal Shirt,Fashion,459,276099.27,49
+2024-10-01,P1015,Winter Jacket,Fashion,220,724615.03,47
+2024-10-01,P1016,Leather Wallet,Fashion,273,34334.03,42
+2024-10-01,P1017,Sunglasses,Fashion,673,588426.99,42
+2024-10-01,P1018,Backpack,Fashion,312,859116.8099999999,41
+2024-10-01,P1019,Sneakers,Fashion,208,720518.88,40
+2024-10-01,P1020,Non-stick Pan,Home & Kitchen,258,843691.0,46
+2024-10-01,P1021,Electric Kettle,Home & Kitchen,480,566100.54,46
+2024-10-01,P1022,Mixer Grinder,Home & Kitchen,175,618861.18,40
+2024-10-01,P1023,LED Bulb Pack,Home & Kitchen,250,314280.98,45
+2024-10-01,P1024,Storage Containers,Home & Kitchen,479,798374.5,49
+2024-10-01,P1025,Bedsheet Set,Home & Kitchen,322,1205253.38,41
+2024-10-01,P1026,Curtains,Home & Kitchen,379,1238489.34,47
+2024-10-01,P1027,Air Freshener,Home & Kitchen,515,2168972.67,50
+2024-10-01,P1028,Vacuum Cleaner,Home & Kitchen,218,701835.9299999999,43
+2024-10-01,P1029,Table Lamp,Home & Kitchen,316,897885.8,51
+2024-10-01,P1030,Face Wash,Beauty & Personal Care,340,188347.78,44
+2024-10-01,P1031,Shampoo,Beauty & Personal Care,526,988853.96,46
+2024-10-01,P1032,Body Lotion,Beauty & Personal Care,136,189442.52,42
+2024-10-01,P1033,Perfume,Beauty & Personal Care,249,319197.87,41
+2024-10-01,P1034,Hair Dryer,Beauty & Personal Care,248,1181079.65,36
+2024-10-01,P1035,Trimmer,Beauty & Personal Care,369,748780.11,45
+2024-10-01,P1036,Sunscreen,Beauty & Personal Care,296,1303384.07,45
+2024-10-01,P1037,Lip Balm,Beauty & Personal Care,394,1235341.31,50
+2024-10-01,P1038,Face Mask Pack,Beauty & Personal Care,84,336116.27999999997,29
+2024-10-01,P1039,Hair Oil,Beauty & Personal Care,310,774272.5800000001,42
+2024-10-01,P1040,Basmati Rice 5kg,Grocery,392,1136027.76,44
+2024-10-01,P1041,Cooking Oil 1L,Grocery,1073,2655657.33,48
+2024-10-01,P1042,Green Tea Box,Grocery,383,405887.88,40
+2024-10-01,P1043,Almonds 500g,Grocery,385,1387809.29,41
+2024-10-01,P1044,Instant Noodles Pack,Grocery,471,678079.1,51
+2024-10-01,P1045,Coffee Powder,Grocery,544,123260.08,49
+2024-10-01,P1046,Honey Jar,Grocery,581,1884018.31,42
+2024-10-01,P1047,Protein Bar Pack,Grocery,114,110413.46,37
+2024-10-01,P1048,Peanut Butter,Grocery,157,725777.63,42
+2024-10-01,P1049,Oats Pack,Grocery,259,1222037.1400000001,39
+2024-10-01,P1050,Yoga Mat,Sports & Fitness,85,381471.34,30
+2024-10-01,P1051,Dumbbell Set,Sports & Fitness,273,518533.13,44
+2024-10-01,P1052,Resistance Bands,Sports & Fitness,196,34431.88,39
+2024-10-01,P1053,Skipping Rope,Sports & Fitness,609,2798189.92,45
+2024-10-01,P1054,Cricket Bat,Sports & Fitness,184,403960.3,39
+2024-10-01,P1055,Football,Sports & Fitness,259,1240559.01,44
+2024-10-01,P1056,Water Bottle,Sports & Fitness,673,3131651.15,45
+2024-10-01,P1057,Fitness Tracker Band,Sports & Fitness,159,673895.4,42
+2024-10-01,P1058,Gym Gloves,Sports & Fitness,111,169812.53,34
+2024-10-01,P1059,Badminton Racket,Sports & Fitness,329,652385.22,47
+2024-11-01,P1000,Wireless Earbuds,Electronics,100,447315.79,31
+2024-11-01,P1001,Smartwatch,Electronics,191,602446.95,35
+2024-11-01,P1002,Bluetooth Speaker,Electronics,260,442873.57,45
+2024-11-01,P1003,Power Bank,Electronics,75,135544.37,31
+2024-11-01,P1004,USB-C Cable,Electronics,238,857342.75,52
+2024-11-01,P1005,Laptop Stand,Electronics,574,2524581.89,49
+2024-11-01,P1006,Webcam,Electronics,638,2805042.88,46
+2024-11-01,P1007,Gaming Mouse,Electronics,385,1508039.24,40
+2024-11-01,P1008,Mechanical Keyboard,Electronics,159,505217.12,38
+2024-11-01,P1009,LED Monitor,Electronics,186,94905.67,34
+2024-11-01,P1010,Men's T-Shirt,Fashion,289,255232.44,42
+2024-11-01,P1011,Women's Kurti,Fashion,294,1313691.52,33
+2024-11-01,P1012,Denim Jeans,Fashion,337,1035109.82,47
+2024-11-01,P1013,Running Shoes,Fashion,475,69204.72,42
+2024-11-01,P1014,Formal Shirt,Fashion,446,269348.86,42
+2024-11-01,P1015,Winter Jacket,Fashion,255,848718.64,45
+2024-11-01,P1016,Leather Wallet,Fashion,217,27950.08,39
+2024-11-01,P1017,Sunglasses,Fashion,657,589371.07,45
+2024-11-01,P1018,Backpack,Fashion,290,787813.63,47
+2024-11-01,P1019,Sneakers,Fashion,167,579704.56,40
+2024-11-01,P1020,Non-stick Pan,Home & Kitchen,214,692472.3,43
+2024-11-01,P1021,Electric Kettle,Home & Kitchen,458,546610.02,47
+2024-11-01,P1022,Mixer Grinder,Home & Kitchen,132,468384.0,30
+2024-11-01,P1023,LED Bulb Pack,Home & Kitchen,181,228289.9,42
+2024-11-01,P1024,Storage Containers,Home & Kitchen,518,869975.86,42
+2024-11-01,P1025,Bedsheet Set,Home & Kitchen,298,1113488.79,36
+2024-11-01,P1026,Curtains,Home & Kitchen,429,1389229.1300000001,47
+2024-11-01,P1027,Air Freshener,Home & Kitchen,470,1983522.04,42
+2024-11-01,P1028,Vacuum Cleaner,Home & Kitchen,179,588848.9500000001,43
+2024-11-01,P1029,Table Lamp,Home & Kitchen,290,816098.81,43
+2024-11-01,P1030,Face Wash,Beauty & Personal Care,372,209539.16,46
+2024-11-01,P1031,Shampoo,Beauty & Personal Care,469,883822.16,48
+2024-11-01,P1032,Body Lotion,Beauty & Personal Care,120,164945.86,36
+2024-11-01,P1033,Perfume,Beauty & Personal Care,184,233790.64,32
+2024-11-01,P1034,Hair Dryer,Beauty & Personal Care,244,1154195.24,32
+2024-11-01,P1035,Trimmer,Beauty & Personal Care,276,550448.82,39
+2024-11-01,P1036,Sunscreen,Beauty & Personal Care,215,956206.89,39
+2024-11-01,P1037,Lip Balm,Beauty & Personal Care,380,1192422.39,44
+2024-11-01,P1038,Face Mask Pack,Beauty & Personal Care,78,312676.15,31
+2024-11-01,P1039,Hair Oil,Beauty & Personal Care,284,718184.21,41
+2024-11-01,P1040,Basmati Rice 5kg,Grocery,332,966379.52,47
+2024-11-01,P1041,Cooking Oil 1L,Grocery,902,2256998.5,49
+2024-11-01,P1042,Green Tea Box,Grocery,369,389501.6,44
+2024-11-01,P1043,Almonds 500g,Grocery,408,1450424.07,46
+2024-11-01,P1044,Instant Noodles Pack,Grocery,355,511647.01,43
+2024-11-01,P1045,Coffee Powder,Grocery,432,96818.41,44
+2024-11-01,P1046,Honey Jar,Grocery,455,1475449.84,45
+2024-11-01,P1047,Protein Bar Pack,Grocery,108,103636.56,37
+2024-11-01,P1048,Peanut Butter,Grocery,137,635829.46,36
+2024-11-01,P1049,Oats Pack,Grocery,272,1289485.71,48
+2024-11-01,P1050,Yoga Mat,Sports & Fitness,88,396505.36,31
+2024-11-01,P1051,Dumbbell Set,Sports & Fitness,194,364584.5,36
+2024-11-01,P1052,Resistance Bands,Sports & Fitness,106,18584.22,31
+2024-11-01,P1053,Skipping Rope,Sports & Fitness,504,2316651.2,45
+2024-11-01,P1054,Cricket Bat,Sports & Fitness,172,375538.83,39
+2024-11-01,P1055,Football,Sports & Fitness,265,1256821.17,41
+2024-11-01,P1056,Water Bottle,Sports & Fitness,565,2652153.03,43
+2024-11-01,P1057,Fitness Tracker Band,Sports & Fitness,140,601709.07,39
+2024-11-01,P1058,Gym Gloves,Sports & Fitness,118,179504.6,36
+2024-11-01,P1059,Badminton Racket,Sports & Fitness,246,484927.03,43
+2024-12-01,P1000,Wireless Earbuds,Electronics,102,453970.21,37
+2024-12-01,P1001,Smartwatch,Electronics,169,533655.33,38
+2024-12-01,P1002,Bluetooth Speaker,Electronics,289,503048.16000000003,47
+2024-12-01,P1003,Power Bank,Electronics,101,183973.85,34
+2024-12-01,P1004,USB-C Cable,Electronics,267,971382.2,44
+2024-12-01,P1005,Laptop Stand,Electronics,621,2747962.36,48
+2024-12-01,P1006,Webcam,Electronics,772,3390466.75,49
+2024-12-01,P1007,Gaming Mouse,Electronics,476,1853966.92,48
+2024-12-01,P1008,Mechanical Keyboard,Electronics,172,558697.1,35
+2024-12-01,P1009,LED Monitor,Electronics,179,92585.09,35
+2024-12-01,P1010,Men's T-Shirt,Fashion,292,256569.91,43
+2024-12-01,P1011,Women's Kurti,Fashion,277,1229672.2,40
+2024-12-01,P1012,Denim Jeans,Fashion,414,1264581.07,45
+2024-12-01,P1013,Running Shoes,Fashion,591,86029.42,42
+2024-12-01,P1014,Formal Shirt,Fashion,518,308512.79,47
+2024-12-01,P1015,Winter Jacket,Fashion,257,847114.83,45
+2024-12-01,P1016,Leather Wallet,Fashion,239,30465.84,42
+2024-12-01,P1017,Sunglasses,Fashion,691,606699.52,49
+2024-12-01,P1018,Backpack,Fashion,311,860751.99,46
+2024-12-01,P1019,Sneakers,Fashion,214,738129.81,39
+2024-12-01,P1020,Non-stick Pan,Home & Kitchen,258,849733.52,41
+2024-12-01,P1021,Electric Kettle,Home & Kitchen,540,639787.99,44
+2024-12-01,P1022,Mixer Grinder,Home & Kitchen,121,427725.22,36
+2024-12-01,P1023,LED Bulb Pack,Home & Kitchen,217,269788.37,43
+2024-12-01,P1024,Storage Containers,Home & Kitchen,572,953667.97,52
+2024-12-01,P1025,Bedsheet Set,Home & Kitchen,310,1149130.74,38
+2024-12-01,P1026,Curtains,Home & Kitchen,494,1598414.29,49
+2024-12-01,P1027,Air Freshener,Home & Kitchen,599,2516240.45,47
+2024-12-01,P1028,Vacuum Cleaner,Home & Kitchen,182,595639.76,45
+2024-12-01,P1029,Table Lamp,Home & Kitchen,369,1048798.52,47
+2024-12-01,P1030,Face Wash,Beauty & Personal Care,391,219300.69,46
+2024-12-01,P1031,Shampoo,Beauty & Personal Care,450,848910.24,50
+2024-12-01,P1032,Body Lotion,Beauty & Personal Care,154,214014.6,40
+2024-12-01,P1033,Perfume,Beauty & Personal Care,254,325543.79,37
+2024-12-01,P1034,Hair Dryer,Beauty & Personal Care,305,1451697.91,37
+2024-12-01,P1035,Trimmer,Beauty & Personal Care,286,577837.52,43
+2024-12-01,P1036,Sunscreen,Beauty & Personal Care,271,1199081.15,47
+2024-12-01,P1037,Lip Balm,Beauty & Personal Care,409,1274808.3699999999,45
+2024-12-01,P1038,Face Mask Pack,Beauty & Personal Care,79,313075.92,29
+2024-12-01,P1039,Hair Oil,Beauty & Personal Care,305,759634.56,42
+2024-12-01,P1040,Basmati Rice 5kg,Grocery,428,1242441.51,47
+2024-12-01,P1041,Cooking Oil 1L,Grocery,1074,2687484.07,49
+2024-12-01,P1042,Green Tea Box,Grocery,347,363160.46,48
+2024-12-01,P1043,Almonds 500g,Grocery,398,1408502.73,48
+2024-12-01,P1044,Instant Noodles Pack,Grocery,533,761491.0,46
+2024-12-01,P1045,Coffee Powder,Grocery,470,107154.45,47
+2024-12-01,P1046,Honey Jar,Grocery,488,1582891.83,50
+2024-12-01,P1047,Protein Bar Pack,Grocery,123,118027.59,38
+2024-12-01,P1048,Peanut Butter,Grocery,152,710214.98,40
+2024-12-01,P1049,Oats Pack,Grocery,281,1316558.25,44
+2024-12-01,P1050,Yoga Mat,Sports & Fitness,99,450016.06,30
+2024-12-01,P1051,Dumbbell Set,Sports & Fitness,261,487772.98,42
+2024-12-01,P1052,Resistance Bands,Sports & Fitness,147,25945.83,39
+2024-12-01,P1053,Skipping Rope,Sports & Fitness,531,2430961.59,46
+2024-12-01,P1054,Cricket Bat,Sports & Fitness,152,332939.29000000004,37
+2024-12-01,P1055,Football,Sports & Fitness,260,1239428.2,42
+2024-12-01,P1056,Water Bottle,Sports & Fitness,589,2820497.37,47
+2024-12-01,P1057,Fitness Tracker Band,Sports & Fitness,174,736088.27,43
+2024-12-01,P1058,Gym Gloves,Sports & Fitness,117,177607.78,33
+2024-12-01,P1059,Badminton Racket,Sports & Fitness,274,532752.85,45
+2025-01-01,P1000,Wireless Earbuds,Electronics,83,376015.87,31
+2025-01-01,P1001,Smartwatch,Electronics,205,652262.24,40
+2025-01-01,P1002,Bluetooth Speaker,Electronics,276,472640.51,49
+2025-01-01,P1003,Power Bank,Electronics,80,143379.13,31
+2025-01-01,P1004,USB-C Cable,Electronics,256,917423.0,45
+2025-01-01,P1005,Laptop Stand,Electronics,609,2718893.08,47
+2025-01-01,P1006,Webcam,Electronics,754,3289384.21,46
+2025-01-01,P1007,Gaming Mouse,Electronics,416,1625638.87,44
+2025-01-01,P1008,Mechanical Keyboard,Electronics,131,423368.04,41
+2025-01-01,P1009,LED Monitor,Electronics,215,108401.54000000001,45
+2025-01-01,P1010,Men's T-Shirt,Fashion,314,279510.54,47
+2025-01-01,P1011,Women's Kurti,Fashion,227,1016691.66,42
+2025-01-01,P1012,Denim Jeans,Fashion,422,1292474.35,46
+2025-01-01,P1013,Running Shoes,Fashion,477,71228.28,45
+2025-01-01,P1014,Formal Shirt,Fashion,560,329488.33,44
+2025-01-01,P1015,Winter Jacket,Fashion,293,964501.89,47
+2025-01-01,P1016,Leather Wallet,Fashion,245,31455.12,43
+2025-01-01,P1017,Sunglasses,Fashion,715,639444.9,49
+2025-01-01,P1018,Backpack,Fashion,313,869272.5700000001,45
+2025-01-01,P1019,Sneakers,Fashion,167,575812.61,37
+2025-01-01,P1020,Non-stick Pan,Home & Kitchen,227,731323.83,46
+2025-01-01,P1021,Electric Kettle,Home & Kitchen,444,525780.12,48
+2025-01-01,P1022,Mixer Grinder,Home & Kitchen,149,520737.83,36
+2025-01-01,P1023,LED Bulb Pack,Home & Kitchen,217,270543.77,46
+2025-01-01,P1024,Storage Containers,Home & Kitchen,555,939231.84,43
+2025-01-01,P1025,Bedsheet Set,Home & Kitchen,333,1241485.9,41
+2025-01-01,P1026,Curtains,Home & Kitchen,434,1409599.92,47
+2025-01-01,P1027,Air Freshener,Home & Kitchen,494,2056878.04,47
+2025-01-01,P1028,Vacuum Cleaner,Home & Kitchen,183,595533.07,44
+2025-01-01,P1029,Table Lamp,Home & Kitchen,336,959106.87,46
+2025-01-01,P1030,Face Wash,Beauty & Personal Care,361,202367.28,49
+2025-01-01,P1031,Shampoo,Beauty & Personal Care,490,926026.7,43
+2025-01-01,P1032,Body Lotion,Beauty & Personal Care,144,201500.23,38
+2025-01-01,P1033,Perfume,Beauty & Personal Care,277,356197.1,42
+2025-01-01,P1034,Hair Dryer,Beauty & Personal Care,238,1139998.12,34
+2025-01-01,P1035,Trimmer,Beauty & Personal Care,327,653713.35,47
+2025-01-01,P1036,Sunscreen,Beauty & Personal Care,280,1233836.0,38
+2025-01-01,P1037,Lip Balm,Beauty & Personal Care,382,1203241.75,40
+2025-01-01,P1038,Face Mask Pack,Beauty & Personal Care,76,297823.19,26
+2025-01-01,P1039,Hair Oil,Beauty & Personal Care,275,698944.25,40
+2025-01-01,P1040,Basmati Rice 5kg,Grocery,405,1169183.53,46
+2025-01-01,P1041,Cooking Oil 1L,Grocery,1027,2561624.35,47
+2025-01-01,P1042,Green Tea Box,Grocery,371,389596.07,50
+2025-01-01,P1043,Almonds 500g,Grocery,308,1125119.94,46
+2025-01-01,P1044,Instant Noodles Pack,Grocery,392,569025.73,44
+2025-01-01,P1045,Coffee Powder,Grocery,504,114115.85,45
+2025-01-01,P1046,Honey Jar,Grocery,457,1468660.62,46
+2025-01-01,P1047,Protein Bar Pack,Grocery,107,103386.32,40
+2025-01-01,P1048,Peanut Butter,Grocery,141,659628.73,40
+2025-01-01,P1049,Oats Pack,Grocery,293,1369535.86,54
+2025-01-01,P1050,Yoga Mat,Sports & Fitness,106,475614.12,32
+2025-01-01,P1051,Dumbbell Set,Sports & Fitness,261,488555.72000000003,44
+2025-01-01,P1052,Resistance Bands,Sports & Fitness,163,28953.940000000002,40
+2025-01-01,P1053,Skipping Rope,Sports & Fitness,559,2541789.88,44
+2025-01-01,P1054,Cricket Bat,Sports & Fitness,175,378009.04,36
+2025-01-01,P1055,Football,Sports & Fitness,236,1140750.99,38
+2025-01-01,P1056,Water Bottle,Sports & Fitness,662,3173956.7199999997,46
+2025-01-01,P1057,Fitness Tracker Band,Sports & Fitness,160,671509.15,40
+2025-01-01,P1058,Gym Gloves,Sports & Fitness,122,184809.51,39
+2025-01-01,P1059,Badminton Racket,Sports & Fitness,264,520198.08,42
+2025-02-01,P1000,Wireless Earbuds,Electronics,81,353106.01,30
+2025-02-01,P1001,Smartwatch,Electronics,180,570976.65,31
+2025-02-01,P1002,Bluetooth Speaker,Electronics,276,481114.6,36
+2025-02-01,P1003,Power Bank,Electronics,67,118969.51,27
+2025-02-01,P1004,USB-C Cable,Electronics,249,896205.9400000001,36
+2025-02-01,P1005,Laptop Stand,Electronics,493,2211762.8,42
+2025-02-01,P1006,Webcam,Electronics,623,2723046.75,46
+2025-02-01,P1007,Gaming Mouse,Electronics,389,1503399.43,42
+2025-02-01,P1008,Mechanical Keyboard,Electronics,149,483073.93,40
+2025-02-01,P1009,LED Monitor,Electronics,183,92740.79,38
+2025-02-01,P1010,Men's T-Shirt,Fashion,260,229093.03,46
+2025-02-01,P1011,Women's Kurti,Fashion,170,751386.82,33
+2025-02-01,P1012,Denim Jeans,Fashion,361,1100642.48,43
+2025-02-01,P1013,Running Shoes,Fashion,392,58023.76,42
+2025-02-01,P1014,Formal Shirt,Fashion,405,243138.07,43
+2025-02-01,P1015,Winter Jacket,Fashion,226,746514.43,43
+2025-02-01,P1016,Leather Wallet,Fashion,181,23010.9,38
+2025-02-01,P1017,Sunglasses,Fashion,583,515871.01,45
+2025-02-01,P1018,Backpack,Fashion,230,632703.32,44
+2025-02-01,P1019,Sneakers,Fashion,133,458975.33,38
+2025-02-01,P1020,Non-stick Pan,Home & Kitchen,182,586129.31,39
+2025-02-01,P1021,Electric Kettle,Home & Kitchen,455,542846.5,46
+2025-02-01,P1022,Mixer Grinder,Home & Kitchen,94,333406.27,35
+2025-02-01,P1023,LED Bulb Pack,Home & Kitchen,174,214968.69999999998,36
+2025-02-01,P1024,Storage Containers,Home & Kitchen,402,672333.9,38
+2025-02-01,P1025,Bedsheet Set,Home & Kitchen,233,860716.76,41
+2025-02-01,P1026,Curtains,Home & Kitchen,315,1016335.93,44
+2025-02-01,P1027,Air Freshener,Home & Kitchen,461,1966374.33,44
+2025-02-01,P1028,Vacuum Cleaner,Home & Kitchen,159,518215.77,38
+2025-02-01,P1029,Table Lamp,Home & Kitchen,268,763204.67,46
+2025-02-01,P1030,Face Wash,Beauty & Personal Care,282,158285.32,42
+2025-02-01,P1031,Shampoo,Beauty & Personal Care,475,899436.9,36
+2025-02-01,P1032,Body Lotion,Beauty & Personal Care,109,151388.92,39
+2025-02-01,P1033,Perfume,Beauty & Personal Care,175,224454.22,34
+2025-02-01,P1034,Hair Dryer,Beauty & Personal Care,241,1169468.16,30
+2025-02-01,P1035,Trimmer,Beauty & Personal Care,346,688622.62,44
+2025-02-01,P1036,Sunscreen,Beauty & Personal Care,208,914343.24,40
+2025-02-01,P1037,Lip Balm,Beauty & Personal Care,310,981188.55,42
+2025-02-01,P1038,Face Mask Pack,Beauty & Personal Care,69,271772.59,29
+2025-02-01,P1039,Hair Oil,Beauty & Personal Care,244,608364.45,37
+2025-02-01,P1040,Basmati Rice 5kg,Grocery,377,1107285.6199999999,38
+2025-02-01,P1041,Cooking Oil 1L,Grocery,905,2255985.26,44
+2025-02-01,P1042,Green Tea Box,Grocery,299,317749.49,39
+2025-02-01,P1043,Almonds 500g,Grocery,321,1149143.48,39
+2025-02-01,P1044,Instant Noodles Pack,Grocery,327,474763.62,44
+2025-02-01,P1045,Coffee Powder,Grocery,400,90407.79,37
+2025-02-01,P1046,Honey Jar,Grocery,391,1256158.73,46
+2025-02-01,P1047,Protein Bar Pack,Grocery,95,91028.97,32
+2025-02-01,P1048,Peanut Butter,Grocery,147,690708.57,40
+2025-02-01,P1049,Oats Pack,Grocery,220,1037181.59,38
+2025-02-01,P1050,Yoga Mat,Sports & Fitness,106,476295.43,36
+2025-02-01,P1051,Dumbbell Set,Sports & Fitness,220,419165.48,42
+2025-02-01,P1052,Resistance Bands,Sports & Fitness,137,23730.05,36
+2025-02-01,P1053,Skipping Rope,Sports & Fitness,519,2389179.12,38
+2025-02-01,P1054,Cricket Bat,Sports & Fitness,115,254417.77,36
+2025-02-01,P1055,Football,Sports & Fitness,202,957421.27,42
+2025-02-01,P1056,Water Bottle,Sports & Fitness,514,2454542.52,42
+2025-02-01,P1057,Fitness Tracker Band,Sports & Fitness,136,581546.35,43
+2025-02-01,P1058,Gym Gloves,Sports & Fitness,113,172480.27,33
+2025-02-01,P1059,Badminton Racket,Sports & Fitness,164,318924.99,39
+2025-03-01,P1000,Wireless Earbuds,Electronics,99,436065.67,36
+2025-03-01,P1001,Smartwatch,Electronics,142,447905.72,39
+2025-03-01,P1002,Bluetooth Speaker,Electronics,388,678410.67,46
+2025-03-01,P1003,Power Bank,Electronics,76,134925.25,28
+2025-03-01,P1004,USB-C Cable,Electronics,258,942597.07,47
+2025-03-01,P1005,Laptop Stand,Electronics,556,2465252.88,46
+2025-03-01,P1006,Webcam,Electronics,655,2857068.07,46
+2025-03-01,P1007,Gaming Mouse,Electronics,467,1795235.2,49
+2025-03-01,P1008,Mechanical Keyboard,Electronics,159,519197.04,41
+2025-03-01,P1009,LED Monitor,Electronics,258,131645.44,42
+2025-03-01,P1010,Men's T-Shirt,Fashion,318,280849.82,42
+2025-03-01,P1011,Women's Kurti,Fashion,272,1202979.58,40
+2025-03-01,P1012,Denim Jeans,Fashion,484,1481899.61,43
+2025-03-01,P1013,Running Shoes,Fashion,405,59511.659999999996,47
+2025-03-01,P1014,Formal Shirt,Fashion,530,317969.89,44
+2025-03-01,P1015,Winter Jacket,Fashion,265,875755.49,45
+2025-03-01,P1016,Leather Wallet,Fashion,213,26966.91,47
+2025-03-01,P1017,Sunglasses,Fashion,675,602057.02,45
+2025-03-01,P1018,Backpack,Fashion,287,789575.36,47
+2025-03-01,P1019,Sneakers,Fashion,180,615698.5,40
+2025-03-01,P1020,Non-stick Pan,Home & Kitchen,250,808271.6,42
+2025-03-01,P1021,Electric Kettle,Home & Kitchen,534,633875.26,44
+2025-03-01,P1022,Mixer Grinder,Home & Kitchen,108,382806.79,36
+2025-03-01,P1023,LED Bulb Pack,Home & Kitchen,210,264308.05,46
+2025-03-01,P1024,Storage Containers,Home & Kitchen,471,790739.98,42
+2025-03-01,P1025,Bedsheet Set,Home & Kitchen,339,1253195.74,42
+2025-03-01,P1026,Curtains,Home & Kitchen,461,1491184.29,48
+2025-03-01,P1027,Air Freshener,Home & Kitchen,492,2073249.7,52
+2025-03-01,P1028,Vacuum Cleaner,Home & Kitchen,174,577679.41,44
+2025-03-01,P1029,Table Lamp,Home & Kitchen,290,822671.99,47
+2025-03-01,P1030,Face Wash,Beauty & Personal Care,321,179652.58,52
+2025-03-01,P1031,Shampoo,Beauty & Personal Care,444,837259.85,51
+2025-03-01,P1032,Body Lotion,Beauty & Personal Care,148,206437.49,38
+2025-03-01,P1033,Perfume,Beauty & Personal Care,187,239667.09,42
+2025-03-01,P1034,Hair Dryer,Beauty & Personal Care,262,1261679.15,44
+2025-03-01,P1035,Trimmer,Beauty & Personal Care,371,753896.79,43
+2025-03-01,P1036,Sunscreen,Beauty & Personal Care,235,1035870.33,49
+2025-03-01,P1037,Lip Balm,Beauty & Personal Care,374,1165299.53,46
+2025-03-01,P1038,Face Mask Pack,Beauty & Personal Care,87,341134.2,38
+2025-03-01,P1039,Hair Oil,Beauty & Personal Care,292,742508.02,46
+2025-03-01,P1040,Basmati Rice 5kg,Grocery,405,1169640.04,50
+2025-03-01,P1041,Cooking Oil 1L,Grocery,1055,2619472.56,48
+2025-03-01,P1042,Green Tea Box,Grocery,370,387898.56,46
+2025-03-01,P1043,Almonds 500g,Grocery,337,1202238.8900000001,44
+2025-03-01,P1044,Instant Noodles Pack,Grocery,435,637838.28,50
+2025-03-01,P1045,Coffee Powder,Grocery,475,106525.91,46
+2025-03-01,P1046,Honey Jar,Grocery,457,1468238.75,49
+2025-03-01,P1047,Protein Bar Pack,Grocery,92,90151.35,36
+2025-03-01,P1048,Peanut Butter,Grocery,140,656102.35,45
+2025-03-01,P1049,Oats Pack,Grocery,276,1292122.76,44
+2025-03-01,P1050,Yoga Mat,Sports & Fitness,84,381226.67,31
+2025-03-01,P1051,Dumbbell Set,Sports & Fitness,320,604109.5,46
+2025-03-01,P1052,Resistance Bands,Sports & Fitness,180,31986.52,41
+2025-03-01,P1053,Skipping Rope,Sports & Fitness,711,3238420.72,48
+2025-03-01,P1054,Cricket Bat,Sports & Fitness,170,373194.21,41
+2025-03-01,P1055,Football,Sports & Fitness,260,1237765.2,42
+2025-03-01,P1056,Water Bottle,Sports & Fitness,662,3149965.83,46
+2025-03-01,P1057,Fitness Tracker Band,Sports & Fitness,183,775129.48,42
+2025-03-01,P1058,Gym Gloves,Sports & Fitness,135,204964.25,40
+2025-03-01,P1059,Badminton Racket,Sports & Fitness,204,411208.96,45
+2025-04-01,P1000,Wireless Earbuds,Electronics,93,413617.74,31
+2025-04-01,P1001,Smartwatch,Electronics,126,394336.03,35
+2025-04-01,P1002,Bluetooth Speaker,Electronics,396,688359.11,42
+2025-04-01,P1003,Power Bank,Electronics,87,153935.84,28
+2025-04-01,P1004,USB-C Cable,Electronics,264,954985.1,41
+2025-04-01,P1005,Laptop Stand,Electronics,615,2735968.9899999998,45
+2025-04-01,P1006,Webcam,Electronics,765,3382009.61,48
+2025-04-01,P1007,Gaming Mouse,Electronics,615,2396140.32,46
+2025-04-01,P1008,Mechanical Keyboard,Electronics,173,558208.37,41
+2025-04-01,P1009,LED Monitor,Electronics,237,121657.52,42
+2025-04-01,P1010,Men's T-Shirt,Fashion,307,269851.29,42
+2025-04-01,P1011,Women's Kurti,Fashion,232,1028109.72,39
+2025-04-01,P1012,Denim Jeans,Fashion,522,1569769.28,45
+2025-04-01,P1013,Running Shoes,Fashion,496,73098.06,47
+2025-04-01,P1014,Formal Shirt,Fashion,531,319160.88,41
+2025-04-01,P1015,Winter Jacket,Fashion,248,818320.9299999999,47
+2025-04-01,P1016,Leather Wallet,Fashion,205,25957.96,44
+2025-04-01,P1017,Sunglasses,Fashion,656,581189.94,43
+2025-04-01,P1018,Backpack,Fashion,273,745845.8,41
+2025-04-01,P1019,Sneakers,Fashion,173,598799.77,42
+2025-04-01,P1020,Non-stick Pan,Home & Kitchen,262,860267.8200000001,44
+2025-04-01,P1021,Electric Kettle,Home & Kitchen,477,564967.14,48
+2025-04-01,P1022,Mixer Grinder,Home & Kitchen,113,402166.16000000003,34
+2025-04-01,P1023,LED Bulb Pack,Home & Kitchen,188,235590.71,43
+2025-04-01,P1024,Storage Containers,Home & Kitchen,474,788376.03,44
+2025-04-01,P1025,Bedsheet Set,Home & Kitchen,418,1561609.24,47
+2025-04-01,P1026,Curtains,Home & Kitchen,450,1450725.29,42
+2025-04-01,P1027,Air Freshener,Home & Kitchen,480,2009321.3,45
+2025-04-01,P1028,Vacuum Cleaner,Home & Kitchen,156,512881.13,36
+2025-04-01,P1029,Table Lamp,Home & Kitchen,308,871613.86,44
+2025-04-01,P1030,Face Wash,Beauty & Personal Care,305,169681.89,43
+2025-04-01,P1031,Shampoo,Beauty & Personal Care,457,856386.34,47
+2025-04-01,P1032,Body Lotion,Beauty & Personal Care,157,218649.05,37
+2025-04-01,P1033,Perfume,Beauty & Personal Care,245,314751.46,43
+2025-04-01,P1034,Hair Dryer,Beauty & Personal Care,285,1370444.82,42
+2025-04-01,P1035,Trimmer,Beauty & Personal Care,427,859085.59,44
+2025-04-01,P1036,Sunscreen,Beauty & Personal Care,208,912121.44,38
+2025-04-01,P1037,Lip Balm,Beauty & Personal Care,387,1207944.78,47
+2025-04-01,P1038,Face Mask Pack,Beauty & Personal Care,62,241136.55,28
+2025-04-01,P1039,Hair Oil,Beauty & Personal Care,294,745991.0,46
+2025-04-01,P1040,Basmati Rice 5kg,Grocery,428,1232174.92,47
+2025-04-01,P1041,Cooking Oil 1L,Grocery,1078,2691636.38,47
+2025-04-01,P1042,Green Tea Box,Grocery,366,383064.07,45
+2025-04-01,P1043,Almonds 500g,Grocery,352,1259433.03,39
+2025-04-01,P1044,Instant Noodles Pack,Grocery,407,589603.29,51
+2025-04-01,P1045,Coffee Powder,Grocery,428,96594.63,44
+2025-04-01,P1046,Honey Jar,Grocery,387,1245966.56,45
+2025-04-01,P1047,Protein Bar Pack,Grocery,82,79155.86,32
+2025-04-01,P1048,Peanut Butter,Grocery,131,608697.3,35
+2025-04-01,P1049,Oats Pack,Grocery,266,1249631.46,43
+2025-04-01,P1050,Yoga Mat,Sports & Fitness,79,355504.93,29
+2025-04-01,P1051,Dumbbell Set,Sports & Fitness,364,685884.95,45
+2025-04-01,P1052,Resistance Bands,Sports & Fitness,154,26919.34,36
+2025-04-01,P1053,Skipping Rope,Sports & Fitness,745,3435261.83,45
+2025-04-01,P1054,Cricket Bat,Sports & Fitness,178,386794.13,44
+2025-04-01,P1055,Football,Sports & Fitness,219,1055118.19,45
+2025-04-01,P1056,Water Bottle,Sports & Fitness,644,3062532.37,47
+2025-04-01,P1057,Fitness Tracker Band,Sports & Fitness,186,787880.94,43
+2025-04-01,P1058,Gym Gloves,Sports & Fitness,130,198707.95,40
+2025-04-01,P1059,Badminton Racket,Sports & Fitness,220,434715.89,39
+2025-05-01,P1000,Wireless Earbuds,Electronics,104,466167.52,33
+2025-05-01,P1001,Smartwatch,Electronics,189,598462.8200000001,38
+2025-05-01,P1002,Bluetooth Speaker,Electronics,466,816573.35,46
+2025-05-01,P1003,Power Bank,Electronics,76,137746.38,32
+2025-05-01,P1004,USB-C Cable,Electronics,251,898877.09,45
+2025-05-01,P1005,Laptop Stand,Electronics,698,3120956.88,49
+2025-05-01,P1006,Webcam,Electronics,815,3560779.08,48
+2025-05-01,P1007,Gaming Mouse,Electronics,623,2414530.93,41
+2025-05-01,P1008,Mechanical Keyboard,Electronics,166,532245.51,46
+2025-05-01,P1009,LED Monitor,Electronics,300,153535.41,38
+2025-05-01,P1010,Men's T-Shirt,Fashion,356,315798.68,40
+2025-05-01,P1011,Women's Kurti,Fashion,274,1209910.54,48
+2025-05-01,P1012,Denim Jeans,Fashion,552,1662125.64,46
+2025-05-01,P1013,Running Shoes,Fashion,449,65693.62,46
+2025-05-01,P1014,Formal Shirt,Fashion,550,329591.29,43
+2025-05-01,P1015,Winter Jacket,Fashion,270,901276.07,44
+2025-05-01,P1016,Leather Wallet,Fashion,175,22199.99,40
+2025-05-01,P1017,Sunglasses,Fashion,763,682018.08,43
+2025-05-01,P1018,Backpack,Fashion,325,896107.74,43
+2025-05-01,P1019,Sneakers,Fashion,163,570605.36,37
+2025-05-01,P1020,Non-stick Pan,Home & Kitchen,266,867804.8099999999,45
+2025-05-01,P1021,Electric Kettle,Home & Kitchen,565,672294.5,47
+2025-05-01,P1022,Mixer Grinder,Home & Kitchen,121,419118.18,39
+2025-05-01,P1023,LED Bulb Pack,Home & Kitchen,212,265564.41,42
+2025-05-01,P1024,Storage Containers,Home & Kitchen,486,816586.91,44
+2025-05-01,P1025,Bedsheet Set,Home & Kitchen,469,1736211.15,46
+2025-05-01,P1026,Curtains,Home & Kitchen,465,1513214.73,51
+2025-05-01,P1027,Air Freshener,Home & Kitchen,545,2317570.65,47
+2025-05-01,P1028,Vacuum Cleaner,Home & Kitchen,178,588604.49,44
+2025-05-01,P1029,Table Lamp,Home & Kitchen,345,974863.95,47
+2025-05-01,P1030,Face Wash,Beauty & Personal Care,377,214277.81,41
+2025-05-01,P1031,Shampoo,Beauty & Personal Care,468,871108.24,50
+2025-05-01,P1032,Body Lotion,Beauty & Personal Care,154,213608.21,46
+2025-05-01,P1033,Perfume,Beauty & Personal Care,181,231132.9,46
+2025-05-01,P1034,Hair Dryer,Beauty & Personal Care,287,1370244.1600000001,46
+2025-05-01,P1035,Trimmer,Beauty & Personal Care,486,971967.0,52
+2025-05-01,P1036,Sunscreen,Beauty & Personal Care,231,1020780.34,47
+2025-05-01,P1037,Lip Balm,Beauty & Personal Care,437,1390366.46,47
+2025-05-01,P1038,Face Mask Pack,Beauty & Personal Care,94,368367.71,35
+2025-05-01,P1039,Hair Oil,Beauty & Personal Care,285,726670.42,46
+2025-05-01,P1040,Basmati Rice 5kg,Grocery,459,1325832.81,47
+2025-05-01,P1041,Cooking Oil 1L,Grocery,1135,2835062.58,48
+2025-05-01,P1042,Green Tea Box,Grocery,359,377212.01,44
+2025-05-01,P1043,Almonds 500g,Grocery,384,1387236.98,44
+2025-05-01,P1044,Instant Noodles Pack,Grocery,444,644971.65,44
+2025-05-01,P1045,Coffee Powder,Grocery,467,106095.14,43
+2025-05-01,P1046,Honey Jar,Grocery,467,1489070.93,41
+2025-05-01,P1047,Protein Bar Pack,Grocery,98,94451.81,36
+2025-05-01,P1048,Peanut Butter,Grocery,122,570655.1,37
+2025-05-01,P1049,Oats Pack,Grocery,257,1212335.27,47
+2025-05-01,P1050,Yoga Mat,Sports & Fitness,110,497715.97,33
+2025-05-01,P1051,Dumbbell Set,Sports & Fitness,388,731994.35,50
+2025-05-01,P1052,Resistance Bands,Sports & Fitness,151,26515.31,36
+2025-05-01,P1053,Skipping Rope,Sports & Fitness,882,4039450.11,47
+2025-05-01,P1054,Cricket Bat,Sports & Fitness,185,403574.71,45
+2025-05-01,P1055,Football,Sports & Fitness,316,1509328.3,46
+2025-05-01,P1056,Water Bottle,Sports & Fitness,701,3292274.63,46
+2025-05-01,P1057,Fitness Tracker Band,Sports & Fitness,166,707227.13,47
+2025-05-01,P1058,Gym Gloves,Sports & Fitness,125,189631.79,40
+2025-05-01,P1059,Badminton Racket,Sports & Fitness,236,464843.11,44
+2025-06-01,P1000,Wireless Earbuds,Electronics,99,440351.49,33
+2025-06-01,P1001,Smartwatch,Electronics,194,603796.74,37
+2025-06-01,P1002,Bluetooth Speaker,Electronics,450,785197.99,46
+2025-06-01,P1003,Power Bank,Electronics,62,111471.88,29
+2025-06-01,P1004,USB-C Cable,Electronics,285,1029617.6699999999,47
+2025-06-01,P1005,Laptop Stand,Electronics,696,3066441.92,42
+2025-06-01,P1006,Webcam,Electronics,733,3224414.12,46
+2025-06-01,P1007,Gaming Mouse,Electronics,545,2087545.32,41
+2025-06-01,P1008,Mechanical Keyboard,Electronics,149,476059.12,43
+2025-06-01,P1009,LED Monitor,Electronics,291,148581.21,44
+2025-06-01,P1010,Men's T-Shirt,Fashion,302,269649.86,47
+2025-06-01,P1011,Women's Kurti,Fashion,277,1237562.31,38
+2025-06-01,P1012,Denim Jeans,Fashion,557,1688669.1600000001,48
+2025-06-01,P1013,Running Shoes,Fashion,474,70062.51,40
+2025-06-01,P1014,Formal Shirt,Fashion,585,350004.47000000003,47
+2025-06-01,P1015,Winter Jacket,Fashion,286,947769.65,42
+2025-06-01,P1016,Leather Wallet,Fashion,213,26901.11,43
+2025-06-01,P1017,Sunglasses,Fashion,728,651318.9,46
+2025-06-01,P1018,Backpack,Fashion,323,885463.62,40
+2025-06-01,P1019,Sneakers,Fashion,161,555238.26,37
+2025-06-01,P1020,Non-stick Pan,Home & Kitchen,247,802841.21,43
+2025-06-01,P1021,Electric Kettle,Home & Kitchen,602,717225.67,50
+2025-06-01,P1022,Mixer Grinder,Home & Kitchen,117,414105.3,41
+2025-06-01,P1023,LED Bulb Pack,Home & Kitchen,222,278093.05,42
+2025-06-01,P1024,Storage Containers,Home & Kitchen,482,806940.33,52
+2025-06-01,P1025,Bedsheet Set,Home & Kitchen,410,1521289.8,52
+2025-06-01,P1026,Curtains,Home & Kitchen,465,1507658.1,44
+2025-06-01,P1027,Air Freshener,Home & Kitchen,521,2188191.31,51
+2025-06-01,P1028,Vacuum Cleaner,Home & Kitchen,162,530079.3,38
+2025-06-01,P1029,Table Lamp,Home & Kitchen,357,1012642.77,46
+2025-06-01,P1030,Face Wash,Beauty & Personal Care,327,183713.83,42
+2025-06-01,P1031,Shampoo,Beauty & Personal Care,470,886658.42,49
+2025-06-01,P1032,Body Lotion,Beauty & Personal Care,138,191018.6,39
+2025-06-01,P1033,Perfume,Beauty & Personal Care,248,319032.77,44
+2025-06-01,P1034,Hair Dryer,Beauty & Personal Care,232,1110759.88,43
+2025-06-01,P1035,Trimmer,Beauty & Personal Care,505,1029652.66,49
+2025-06-01,P1036,Sunscreen,Beauty & Personal Care,224,999834.5800000001,43
+2025-06-01,P1037,Lip Balm,Beauty & Personal Care,417,1314403.86,46
+2025-06-01,P1038,Face Mask Pack,Beauty & Personal Care,64,249368.98,26
+2025-06-01,P1039,Hair Oil,Beauty & Personal Care,288,729719.1,42
+2025-06-01,P1040,Basmati Rice 5kg,Grocery,428,1234696.99,40
+2025-06-01,P1041,Cooking Oil 1L,Grocery,1224,3015726.54,45
+2025-06-01,P1042,Green Tea Box,Grocery,392,409424.16,48
+2025-06-01,P1043,Almonds 500g,Grocery,339,1226774.62,41
+2025-06-01,P1044,Instant Noodles Pack,Grocery,381,554328.37,41
+2025-06-01,P1045,Coffee Powder,Grocery,414,94296.6,42
+2025-06-01,P1046,Honey Jar,Grocery,439,1403666.04,44
+2025-06-01,P1047,Protein Bar Pack,Grocery,116,111986.24,38
+2025-06-01,P1048,Peanut Butter,Grocery,147,685136.37,38
+2025-06-01,P1049,Oats Pack,Grocery,319,1506385.91,45
+2025-06-01,P1050,Yoga Mat,Sports & Fitness,95,430392.56,31
+2025-06-01,P1051,Dumbbell Set,Sports & Fitness,350,661385.87,53
+2025-06-01,P1052,Resistance Bands,Sports & Fitness,124,21962.57,37
+2025-06-01,P1053,Skipping Rope,Sports & Fitness,940,4339362.1,47
+2025-06-01,P1054,Cricket Bat,Sports & Fitness,199,434981.64,43
+2025-06-01,P1055,Football,Sports & Fitness,277,1313422.27,42
+2025-06-01,P1056,Water Bottle,Sports & Fitness,722,3412651.29,42
+2025-06-01,P1057,Fitness Tracker Band,Sports & Fitness,172,728729.01,39
+2025-06-01,P1058,Gym Gloves,Sports & Fitness,113,172846.19,39
+2025-06-01,P1059,Badminton Racket,Sports & Fitness,220,436833.36,39
+2025-07-01,P1000,Wireless Earbuds,Electronics,89,394827.68,35
+2025-07-01,P1001,Smartwatch,Electronics,154,486375.25,32
+2025-07-01,P1002,Bluetooth Speaker,Electronics,379,662515.21,43
+2025-07-01,P1003,Power Bank,Electronics,91,161743.34,34
+2025-07-01,P1004,USB-C Cable,Electronics,250,905954.8200000001,46
+2025-07-01,P1005,Laptop Stand,Electronics,643,2846026.06,42
+2025-07-01,P1006,Webcam,Electronics,756,3336630.5300000003,47
+2025-07-01,P1007,Gaming Mouse,Electronics,547,2109260.02,51
+2025-07-01,P1008,Mechanical Keyboard,Electronics,170,540394.79,45
+2025-07-01,P1009,LED Monitor,Electronics,287,147369.05,46
+2025-07-01,P1010,Men's T-Shirt,Fashion,358,317556.2,43
+2025-07-01,P1011,Women's Kurti,Fashion,252,1116194.12,40
+2025-07-01,P1012,Denim Jeans,Fashion,646,1962556.14,52
+2025-07-01,P1013,Running Shoes,Fashion,392,57462.12,42
+2025-07-01,P1014,Formal Shirt,Fashion,572,340614.69,48
+2025-07-01,P1015,Winter Jacket,Fashion,299,982594.95,49
+2025-07-01,P1016,Leather Wallet,Fashion,137,17579.58,38
+2025-07-01,P1017,Sunglasses,Fashion,737,660405.82,45
+2025-07-01,P1018,Backpack,Fashion,276,765939.26,45
+2025-07-01,P1019,Sneakers,Fashion,156,537614.35,40
+2025-07-01,P1020,Non-stick Pan,Home & Kitchen,251,817118.93,47
+2025-07-01,P1021,Electric Kettle,Home & Kitchen,564,669524.46,52
+2025-07-01,P1022,Mixer Grinder,Home & Kitchen,118,418251.5,44
+2025-07-01,P1023,LED Bulb Pack,Home & Kitchen,237,295274.89,42
+2025-07-01,P1024,Storage Containers,Home & Kitchen,530,880342.89,46
+2025-07-01,P1025,Bedsheet Set,Home & Kitchen,425,1573268.29,47
+2025-07-01,P1026,Curtains,Home & Kitchen,458,1499697.98,43
+2025-07-01,P1027,Air Freshener,Home & Kitchen,496,2082573.05,46
+2025-07-01,P1028,Vacuum Cleaner,Home & Kitchen,203,667213.56,50
+2025-07-01,P1029,Table Lamp,Home & Kitchen,353,992182.13,46
+2025-07-01,P1030,Face Wash,Beauty & Personal Care,327,184197.4,45
+2025-07-01,P1031,Shampoo,Beauty & Personal Care,577,1093927.21,43
+2025-07-01,P1032,Body Lotion,Beauty & Personal Care,152,213239.32,43
+2025-07-01,P1033,Perfume,Beauty & Personal Care,247,317755.46,45
+2025-07-01,P1034,Hair Dryer,Beauty & Personal Care,205,982616.23,42
+2025-07-01,P1035,Trimmer,Beauty & Personal Care,432,872598.78,49
+2025-07-01,P1036,Sunscreen,Beauty & Personal Care,209,920841.32,41
+2025-07-01,P1037,Lip Balm,Beauty & Personal Care,424,1340563.4,43
+2025-07-01,P1038,Face Mask Pack,Beauty & Personal Care,76,299103.23,30
+2025-07-01,P1039,Hair Oil,Beauty & Personal Care,263,663589.59,48
+2025-07-01,P1040,Basmati Rice 5kg,Grocery,460,1340077.75,44
+2025-07-01,P1041,Cooking Oil 1L,Grocery,1104,2737244.02,48
+2025-07-01,P1042,Green Tea Box,Grocery,384,407308.03,46
+2025-07-01,P1043,Almonds 500g,Grocery,324,1171713.66,45
+2025-07-01,P1044,Instant Noodles Pack,Grocery,337,495873.08,46
+2025-07-01,P1045,Coffee Powder,Grocery,484,110050.11,43
+2025-07-01,P1046,Honey Jar,Grocery,463,1496959.6199999999,48
+2025-07-01,P1047,Protein Bar Pack,Grocery,117,113401.06999999999,37
+2025-07-01,P1048,Peanut Butter,Grocery,148,690088.96,44
+2025-07-01,P1049,Oats Pack,Grocery,320,1500973.71,51
+2025-07-01,P1050,Yoga Mat,Sports & Fitness,79,355040.04,30
+2025-07-01,P1051,Dumbbell Set,Sports & Fitness,337,639704.46,47
+2025-07-01,P1052,Resistance Bands,Sports & Fitness,162,28507.34,40
+2025-07-01,P1053,Skipping Rope,Sports & Fitness,839,3789999.61,44
+2025-07-01,P1054,Cricket Bat,Sports & Fitness,175,380464.52,44
+2025-07-01,P1055,Football,Sports & Fitness,233,1119294.91,34
+2025-07-01,P1056,Water Bottle,Sports & Fitness,770,3706008.28,45
+2025-07-01,P1057,Fitness Tracker Band,Sports & Fitness,149,626747.23,44
+2025-07-01,P1058,Gym Gloves,Sports & Fitness,147,224227.15,43
+2025-07-01,P1059,Badminton Racket,Sports & Fitness,206,406367.15,42
+2025-08-01,P1000,Wireless Earbuds,Electronics,110,494654.68,32
+2025-08-01,P1001,Smartwatch,Electronics,210,661508.74,38
+2025-08-01,P1002,Bluetooth Speaker,Electronics,445,767692.12,45
+2025-08-01,P1003,Power Bank,Electronics,86,154046.9,32
+2025-08-01,P1004,USB-C Cable,Electronics,301,1075496.75,47
+2025-08-01,P1005,Laptop Stand,Electronics,681,3039462.88,51
+2025-08-01,P1006,Webcam,Electronics,957,4141248.2,48
+2025-08-01,P1007,Gaming Mouse,Electronics,552,2140149.63,45
+2025-08-01,P1008,Mechanical Keyboard,Electronics,206,666099.46,42
+2025-08-01,P1009,LED Monitor,Electronics,259,131817.24,48
+2025-08-01,P1010,Men's T-Shirt,Fashion,362,320795.16,50
+2025-08-01,P1011,Women's Kurti,Fashion,235,1041678.62,44
+2025-08-01,P1012,Denim Jeans,Fashion,641,1921551.3900000001,45
+2025-08-01,P1013,Running Shoes,Fashion,494,72321.04,47
+2025-08-01,P1014,Formal Shirt,Fashion,595,357124.96,50
+2025-08-01,P1015,Winter Jacket,Fashion,290,955250.0700000001,48
+2025-08-01,P1016,Leather Wallet,Fashion,198,24906.989999999998,41
+2025-08-01,P1017,Sunglasses,Fashion,723,635157.25,43
+2025-08-01,P1018,Backpack,Fashion,291,801826.7,43
+2025-08-01,P1019,Sneakers,Fashion,166,573595.46,44
+2025-08-01,P1020,Non-stick Pan,Home & Kitchen,269,872715.97,47
+2025-08-01,P1021,Electric Kettle,Home & Kitchen,625,737487.25,46
+2025-08-01,P1022,Mixer Grinder,Home & Kitchen,131,468081.66,37
+2025-08-01,P1023,LED Bulb Pack,Home & Kitchen,234,292442.57,47
+2025-08-01,P1024,Storage Containers,Home & Kitchen,574,960697.84,52
+2025-08-01,P1025,Bedsheet Set,Home & Kitchen,447,1677364.33,43
+2025-08-01,P1026,Curtains,Home & Kitchen,519,1676354.33,47
+2025-08-01,P1027,Air Freshener,Home & Kitchen,609,2589952.88,41
+2025-08-01,P1028,Vacuum Cleaner,Home & Kitchen,228,742574.4400000001,43
+2025-08-01,P1029,Table Lamp,Home & Kitchen,389,1113503.28,42
+2025-08-01,P1030,Face Wash,Beauty & Personal Care,443,247574.48,46
+2025-08-01,P1031,Shampoo,Beauty & Personal Care,554,1030503.96,48
+2025-08-01,P1032,Body Lotion,Beauty & Personal Care,204,283932.77,51
+2025-08-01,P1033,Perfume,Beauty & Personal Care,258,330865.52999999997,35
+2025-08-01,P1034,Hair Dryer,Beauty & Personal Care,294,1407495.82,43
+2025-08-01,P1035,Trimmer,Beauty & Personal Care,429,866642.55,48
+2025-08-01,P1036,Sunscreen,Beauty & Personal Care,264,1166194.16,44
+2025-08-01,P1037,Lip Balm,Beauty & Personal Care,467,1486988.75,46
+2025-08-01,P1038,Face Mask Pack,Beauty & Personal Care,95,373324.64,35
+2025-08-01,P1039,Hair Oil,Beauty & Personal Care,375,949448.48,41
+2025-08-01,P1040,Basmati Rice 5kg,Grocery,514,1494417.2,48
+2025-08-01,P1041,Cooking Oil 1L,Grocery,1253,3103639.62,51
+2025-08-01,P1042,Green Tea Box,Grocery,446,468401.32,45
+2025-08-01,P1043,Almonds 500g,Grocery,345,1227937.24,44
+2025-08-01,P1044,Instant Noodles Pack,Grocery,378,548386.18,44
+2025-08-01,P1045,Coffee Powder,Grocery,513,116560.46,49
+2025-08-01,P1046,Honey Jar,Grocery,486,1552178.77,42
+2025-08-01,P1047,Protein Bar Pack,Grocery,92,89508.88,33
+2025-08-01,P1048,Peanut Butter,Grocery,189,877649.12,46
+2025-08-01,P1049,Oats Pack,Grocery,324,1533018.71,48
+2025-08-01,P1050,Yoga Mat,Sports & Fitness,108,483425.67,34
+2025-08-01,P1051,Dumbbell Set,Sports & Fitness,394,744514.17,44
+2025-08-01,P1052,Resistance Bands,Sports & Fitness,164,29244.489999999998,38
+2025-08-01,P1053,Skipping Rope,Sports & Fitness,942,4350477.21,52
+2025-08-01,P1054,Cricket Bat,Sports & Fitness,201,437951.38,44
+2025-08-01,P1055,Football,Sports & Fitness,260,1244361.37,42
+2025-08-01,P1056,Water Bottle,Sports & Fitness,814,3856150.78,49
+2025-08-01,P1057,Fitness Tracker Band,Sports & Fitness,174,732742.51,46
+2025-08-01,P1058,Gym Gloves,Sports & Fitness,176,268289.58,44
+2025-08-01,P1059,Badminton Racket,Sports & Fitness,243,480293.0,48
+2025-09-01,P1000,Wireless Earbuds,Electronics,105,462528.0,33
+2025-09-01,P1001,Smartwatch,Electronics,187,591925.29,38
+2025-09-01,P1002,Bluetooth Speaker,Electronics,365,630982.49,49
+2025-09-01,P1003,Power Bank,Electronics,95,170501.88,35
+2025-09-01,P1004,USB-C Cable,Electronics,339,1231071.31,46
+2025-09-01,P1005,Laptop Stand,Electronics,643,2873542.41,45
+2025-09-01,P1006,Webcam,Electronics,814,3586786.63,45
+2025-09-01,P1007,Gaming Mouse,Electronics,480,1865487.66,44
+2025-09-01,P1008,Mechanical Keyboard,Electronics,203,655680.72,39
+2025-09-01,P1009,LED Monitor,Electronics,255,130776.26,43
+2025-09-01,P1010,Men's T-Shirt,Fashion,340,302792.0,44
+2025-09-01,P1011,Women's Kurti,Fashion,248,1109011.3,39
+2025-09-01,P1012,Denim Jeans,Fashion,467,1413786.96,45
+2025-09-01,P1013,Running Shoes,Fashion,440,64061.11,45
+2025-09-01,P1014,Formal Shirt,Fashion,546,324853.46,47
+2025-09-01,P1015,Winter Jacket,Fashion,294,984349.21,42
+2025-09-01,P1016,Leather Wallet,Fashion,163,20504.23,38
+2025-09-01,P1017,Sunglasses,Fashion,690,616680.35,42
+2025-09-01,P1018,Backpack,Fashion,355,993908.0599999999,48
+2025-09-01,P1019,Sneakers,Fashion,182,625636.6,41
+2025-09-01,P1020,Non-stick Pan,Home & Kitchen,253,827615.32,44
+2025-09-01,P1021,Electric Kettle,Home & Kitchen,587,693953.07,46
+2025-09-01,P1022,Mixer Grinder,Home & Kitchen,126,448874.93,35
+2025-09-01,P1023,LED Bulb Pack,Home & Kitchen,244,307141.75,44
+2025-09-01,P1024,Storage Containers,Home & Kitchen,508,854282.42,41
+2025-09-01,P1025,Bedsheet Set,Home & Kitchen,360,1339658.17,47
+2025-09-01,P1026,Curtains,Home & Kitchen,500,1599578.22,45
+2025-09-01,P1027,Air Freshener,Home & Kitchen,531,2252717.0300000003,43
+2025-09-01,P1028,Vacuum Cleaner,Home & Kitchen,191,623515.73,38
+2025-09-01,P1029,Table Lamp,Home & Kitchen,370,1058207.43,45
+2025-09-01,P1030,Face Wash,Beauty & Personal Care,368,203826.82,41
+2025-09-01,P1031,Shampoo,Beauty & Personal Care,564,1060605.64,45
+2025-09-01,P1032,Body Lotion,Beauty & Personal Care,177,246321.0,41
+2025-09-01,P1033,Perfume,Beauty & Personal Care,204,261215.14,37
+2025-09-01,P1034,Hair Dryer,Beauty & Personal Care,293,1426141.39,41
+2025-09-01,P1035,Trimmer,Beauty & Personal Care,413,818678.05,41
+2025-09-01,P1036,Sunscreen,Beauty & Personal Care,251,1110817.55,39
+2025-09-01,P1037,Lip Balm,Beauty & Personal Care,483,1522701.19,46
+2025-09-01,P1038,Face Mask Pack,Beauty & Personal Care,65,255667.96,30
+2025-09-01,P1039,Hair Oil,Beauty & Personal Care,310,786217.98,42
+2025-09-01,P1040,Basmati Rice 5kg,Grocery,472,1367396.93,47
+2025-09-01,P1041,Cooking Oil 1L,Grocery,1189,2956499.4,47
+2025-09-01,P1042,Green Tea Box,Grocery,411,432414.41000000003,44
+2025-09-01,P1043,Almonds 500g,Grocery,333,1197415.36,35
+2025-09-01,P1044,Instant Noodles Pack,Grocery,367,537377.37,45
+2025-09-01,P1045,Coffee Powder,Grocery,506,113933.22,48
+2025-09-01,P1046,Honey Jar,Grocery,384,1213991.33,41
+2025-09-01,P1047,Protein Bar Pack,Grocery,97,93242.58,35
+2025-09-01,P1048,Peanut Butter,Grocery,168,781659.29,40
+2025-09-01,P1049,Oats Pack,Grocery,370,1738214.74,44
+2025-09-01,P1050,Yoga Mat,Sports & Fitness,107,483908.47000000003,37
+2025-09-01,P1051,Dumbbell Set,Sports & Fitness,308,586775.11,40
+2025-09-01,P1052,Resistance Bands,Sports & Fitness,128,22436.58,32
+2025-09-01,P1053,Skipping Rope,Sports & Fitness,753,3446896.55,45
+2025-09-01,P1054,Cricket Bat,Sports & Fitness,168,366971.09,44
+2025-09-01,P1055,Football,Sports & Fitness,262,1256667.75,39
+2025-09-01,P1056,Water Bottle,Sports & Fitness,777,3717469.2,40
+2025-09-01,P1057,Fitness Tracker Band,Sports & Fitness,207,877206.86,44
+2025-09-01,P1058,Gym Gloves,Sports & Fitness,156,238985.16999999998,38
+2025-09-01,P1059,Badminton Racket,Sports & Fitness,202,393860.71,40

@@ -1,0 +1,11 @@
+product_id,product_name,category,total_quantity,total_revenue,number_of_orders
+P1041,Cooking Oil 1L,Grocery,26274,65301894.26,1122
+P1053,Skipping Rope,Sports & Fitness,16885,77346147.63,1097
+P1017,Sunglasses,Fashion,16816,14929195.27,1094
+P1006,Webcam,Electronics,16213,71101790.9,1114
+P1056,Water Bottle,Sports & Fitness,14768,70105880.54,1093
+P1005,Laptop Stand,Electronics,13190,58489218.39,1107
+P1013,Running Shoes,Fashion,12625,1853997.67,1102
+P1046,Honey Jar,Grocery,12598,40482988.06,1101
+P1027,Air Freshener,Home & Kitchen,12516,52805658.97,1085
+P1024,Storage Containers,Home & Kitchen,12109,20251003.16,1108

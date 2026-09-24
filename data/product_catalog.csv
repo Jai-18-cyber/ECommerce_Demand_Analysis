@@ -1,0 +1,61 @@
+product_id,product_name,category,base_demand,unit_price
+P1000,Wireless Earbuds,Electronics,2.9507210257280656,4519.0
+P1001,Smartwatch,Electronics,5.183143630926373,3209.0
+P1002,Bluetooth Speaker,Electronics,10.50638525798694,1769.0
+P1003,Power Bank,Electronics,2.3817721012994144,1819.0
+P1004,USB-C Cable,Electronics,5.344591091432119,3669.0
+P1005,Laptop Stand,Electronics,12.333181916526495,4499.0
+P1006,Webcam,Electronics,15.637234059520942,4459.0
+P1007,Gaming Mouse,Electronics,14.800106806893467,3929.0
+P1008,Mechanical Keyboard,Electronics,4.7552676198689126,3249.0
+P1009,LED Monitor,Electronics,6.90108581766756,519.0
+P1010,Men's T-Shirt,Fashion,6.142173951387953,899.0
+P1011,Women's Kurti,Fashion,7.4972979424174575,4509.0
+P1012,Denim Jeans,Fashion,13.845584092557004,3079.0
+P1013,Running Shoes,Fashion,18.601592514101164,149.0
+P1014,Formal Shirt,Fashion,10.622524662432424,609.0
+P1015,Winter Jacket,Fashion,5.466854344048023,3359.0
+P1016,Leather Wallet,Fashion,8.272582269278434,129.0
+P1017,Sunglasses,Fashion,20.696999006991547,899.0
+P1018,Backpack,Fashion,8.952556854450474,2799.0
+P1019,Sneakers,Fashion,6.9488878736346615,3499.0
+P1020,Non-stick Pan,Home & Kitchen,7.329342467477182,3299.0
+P1021,Electric Kettle,Home & Kitchen,10.593278794307102,1209.0
+P1022,Mixer Grinder,Home & Kitchen,4.862460653109917,3599.0
+P1023,LED Bulb Pack,Home & Kitchen,6.046526760622343,1269.0
+P1024,Storage Containers,Home & Kitchen,14.669833717775164,1699.0
+P1025,Bedsheet Set,Home & Kitchen,10.411260515495862,3769.0
+P1026,Curtains,Home & Kitchen,9.009863999128086,3289.0
+P1027,Air Freshener,Home & Kitchen,15.10993153287915,4269.0
+P1028,Vacuum Cleaner,Home & Kitchen,5.249568681280115,3329.0
+P1029,Table Lamp,Home & Kitchen,6.815315236119918,2889.0
+P1030,Face Wash,Beauty & Personal Care,10.204707814101498,569.0
+P1031,Shampoo,Beauty & Personal Care,9.986139875950373,1909.0
+P1032,Body Lotion,Beauty & Personal Care,3.0951915367694407,1409.0
+P1033,Perfume,Beauty & Personal Care,6.39567560002122,1299.0
+P1034,Hair Dryer,Beauty & Personal Care,7.619462906581856,4879.0
+P1035,Trimmer,Beauty & Personal Care,10.899649768043094,2039.0
+P1036,Sunscreen,Beauty & Personal Care,9.964485360278076,4479.0
+P1037,Lip Balm,Beauty & Personal Care,8.067161582337514,3199.0
+P1038,Face Mask Pack,Beauty & Personal Care,2.1234086283146194,3999.0
+P1039,Hair Oil,Beauty & Personal Care,8.322702558997015,2569.0
+P1040,Basmati Rice 5kg,Grocery,8.800687794291985,2939.0
+P1041,Cooking Oil 1L,Grocery,31.63909762584488,2519.0
+P1042,Green Tea Box,Grocery,7.463971392984512,1069.0
+P1043,Almonds 500g,Grocery,10.238849379645929,3649.0
+P1044,Instant Noodles Pack,Grocery,16.615476604897903,1479.0
+P1045,Coffee Powder,Grocery,13.375982059429308,229.0
+P1046,Honey Jar,Grocery,19.056096365682517,3269.0
+P1047,Protein Bar Pack,Grocery,3.12701963255358,979.0
+P1048,Peanut Butter,Grocery,4.256178055490264,4719.0
+P1049,Oats Pack,Grocery,5.7797251769248215,4779.0
+P1050,Yoga Mat,Sports & Fitness,2.793993533033022,4589.0
+P1051,Dumbbell Set,Sports & Fitness,8.847668885290561,1919.0
+P1052,Resistance Bands,Sports & Fitness,4.484819990897002,179.0
+P1053,Skipping Rope,Sports & Fitness,20.543923980628893,4659.0
+P1054,Cricket Bat,Sports & Fitness,4.952032918278937,2209.0
+P1055,Football,Sports & Fitness,6.841263369201521,4849.0
+P1056,Water Bottle,Sports & Fitness,13.853364681707049,4829.0
+P1057,Fitness Tracker Band,Sports & Fitness,3.5577736979339853,4289.0
+P1058,Gym Gloves,Sports & Fitness,2.6766383426703992,1549.0
+P1059,Badminton Racket,Sports & Fitness,9.521833537534823,1999.0

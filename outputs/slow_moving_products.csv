@@ -1,0 +1,11 @@
+product_id,product_name,category,total_quantity,total_revenue,number_of_orders
+P1038,Face Mask Pack,Beauty & Personal Care,1796,7079312.37,718
+P1003,Power Bank,Electronics,1985,3551717.67,757
+P1050,Yoga Mat,Sports & Fitness,2252,10165915.08,755
+P1000,Wireless Earbuds,Electronics,2377,10588334.12,808
+P1047,Protein Bar Pack,Grocery,2513,2430564.63,845
+P1058,Gym Gloves,Sports & Fitness,2814,4291140.24,868
+P1032,Body Lotion,Beauty & Personal Care,3254,4517264.58,937
+P1022,Mixer Grinder,Home & Kitchen,3315,11753973.82,925
+P1048,Peanut Butter,Grocery,3486,16213276.16,945
+P1057,Fitness Tracker Band,Sports & Fitness,3632,15371962.97,971
